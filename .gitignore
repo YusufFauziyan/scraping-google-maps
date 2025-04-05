@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Scraping data output
+data/
+*.json
+
+# Python environment files
+Pipfile.lock
+poetry.lock
+
+# Ignore dotenv if used
+.env
+
+# OS-specific
+Thumbs.db
+desktop.ini
