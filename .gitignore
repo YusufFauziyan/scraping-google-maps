@@ -20,8 +20,8 @@ env/
 *.log
 
 # Scraping data output
-data/
-*.json
+# data/
+# *.json
 
 # Python environment files
 Pipfile.lock

@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Sunda Coffee & Space (Coffee Shop & Creative Space)",
+        "address": "Jl. Cikole Dalam No.38",
+        "rating": "4,7"
+    },
+    {
+        "name": "Coffee.Sejiwa",
+        "address": "Jl. Cikiray Kidul No.146",
+        "rating": "4,4"
+    },
+    {
+        "name": "Like Earth Coffee",
+        "address": "Jl. Syamsudin. SH No.20-10",
+        "rating": "4,5"
+    },
+    {
+        "name": "The Gade Corner Coffee and Gold Sukabumi",
+        "address": "Jl. Pelabuhan No.77",
+        "rating": "4,9"
+    },
+    {
+        "name": "Yume Coffee",
+        "address": "Jl. Surya Kencana No.31",
+        "rating": "4,8"
+    },
+    {
+        "name": "Cafe van Mila",
+        "address": "Jl. Raya Cemerlang",
+        "rating": "4,6"
+    },
+    {
+        "name": "Habit Coffee",
+        "address": "Jl. Bhayangkara No.91",
+        "rating": "4,7"
+    },
+    {
+        "name": "Barn Coffee",
+        "address": "Jl. Gudang No.5",
+        "rating": "4,6"
+    },
+    {
+        "name": "Rutinitas coffe",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,7"
+    },
+    {
+        "name": "Sukabumi Coffee Center",
+        "address": "Jl. Mayawati Cafitol Plaza No.76 Lt. 1",
+        "rating": "5,0"
+    },
+    {
+        "name": "Dago House Food and Coffee Bar",
+        "address": "Jl. Ir. H. Juanda No.5",
+        "rating": "4,5"
+    },
+    {
+        "name": "Kopi Nako Sukabumi",
+        "address": "Jl. Mayor Mahmud",
+        "rating": "4,8"
+    },
+    {
+        "name": "K&J Coffee",
+        "address": "Jl. Kenari II Kelurahan No.4",
+        "rating": "4,9"
+    },
+    {
+        "name": "OREGONCOFFEEBAR",
+        "address": "Jl. Lkr. Sel.",
+        "rating": "4,8"
+    },
+    {
+        "name": "Seecul Coffee Bar",
+        "address": "3WHG+WWG, Jl. Perintis Kemerdekaan No.2",
+        "rating": "4,7"
+    },
+    {
+        "name": "Seecul Coffee Bar",
+        "address": "Jl. Raya Cemerlang No.8-10",
+        "rating": "4,8"
+    },
+    {
+        "name": "Analog Koffiehuis",
+        "address": "Jl. Sriwijaya No.23",
+        "rating": "4,7"
+    },
+    {
+        "name": "VD Coffee",
+        "address": "Jl. Cikiray-Cijambu No.40",
+        "rating": "4,5"
+    },
+    {
+        "name": "Mason Coffee",
+        "address": "Ruko Mutiara 8, Jl. KH. Ahmad Sanusi No.259 Rt.001/005",
+        "rating": "4,5"
+    },
+    {
+        "name": "Moonshine Coffee & Space",
+        "address": "Jl. Gunung Jaya Kaler",
+        "rating": "4,4"
+    },
+    {
+        "name": "Vanjaloe Coffe Shop",
+        "address": "Jl. Selabintana No.Km, RW.4",
+        "rating": "4,9"
+    },
+    {
+        "name": "Warkost Bahagia",
+        "address": "Jl. Zaenal Zakse No.25",
+        "rating": "4,3"
+    },
+    {
+        "name": "Cafe NewPelangi",
+        "address": "Jl. Pabuaran No.13a",
+        "rating": "5,0"
+    },
+    {
+        "name": "KOPI BRO",
+        "address": "Jl. Ciandam No.23 RT 01/08",
+        "rating": "4,3"
+    },
+    {
+        "name": "OREGONCOFFEEBAR",
+        "address": "Jl. Lkr. Sel.",
+        "rating": "4,8"
+    },
+    {
+        "name": "Kopi Nako Sukabumi",
+        "address": "Jl. Mayor Mahmud",
+        "rating": "4,8"
+    },
+    {
+        "name": "Tempat Kopi Santay CSR_WRi #maSih_Ada",
+        "address": "Alamat tidak ditemukan",
+        "rating": "5,0"
+    },
+    {
+        "name": "Analog Koffiehuis",
+        "address": "Jl. Sriwijaya No.23",
+        "rating": "4,7"
+    },
+    {
+        "name": "Dago House Food and Coffee Bar",
+        "address": "Jl. Ir. H. Juanda No.5",
+        "rating": "4,5"
+    },
+    {
+        "name": "Haku Coffee",
+        "address": "Jl. Bhayangkara No.209",
+        "rating": "5,0"
+    },
+    {
+        "name": "FOLKA COFFEE",
+        "address": "Alamat tidak ditemukan",
+        "rating": "5,0"
+    },
+    {
+        "name": "Somewhere Coffee",
+        "address": "Jl. Ciaul Jl. Selabintana",
+        "rating": "4,6"
+    },
+    {
+        "name": "BC SUKMA ( Sukabumi MAXIM )",
+        "address": "3WV2+6PP, Jl. Sukaresmi",
+        "rating": "5,0"
+    },
+    {
+        "name": "Seecul Coffee Bar",
+        "address": "Jl. Syamsudin. SH No.1",
+        "rating": "4,7"
+    },
+    {
+        "name": "Coffee Chaproek",
+        "address": "Jl. A. Yani No.23",
+        "rating": "4,6"
+    },
+    {
+        "name": "Kukira Coffee",
+        "address": "Jl. Bhayangkara No.6",
+        "rating": "4,6"
+    },
+    {
+        "name": "Warkop Sari Rasa M.Dahlan",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,8"
+    },
+    {
+        "name": "Tji Colle Eatery And Coffe Shop",
+        "address": "Jl. Surya Kencana No.38",
+        "rating": "4,5"
+    },
+    {
+        "name": "Fore Coffee - Citimall Sukabumi",
+        "address": "Citimall Sukabumi, Jl. A. Yani No.121-127 Ground Floor Unit G-0115",
+        "rating": "4,7"
+    },
+    {
+        "name": "Perdana Coffee",
+        "address": "Jl. Raya Cisaat No.172",
+        "rating": "5,0"
+    },
+    {
+        "name": "Soekabums Coffee",
+        "address": "Jl. Bhayangkara No.76A",
+        "rating": "4,9"
+    },
+    {
+        "name": "Starbucks Siliwangi Sukabumi",
+        "address": "Jl. Siliwangi No.76",
+        "rating": "4,7"
+    },
+    {
+        "name": "Bike & Caffeine",
+        "address": "Jl. Raya Cisaat No. 197 Kec. Cisaat",
+        "rating": "5,0"
+    },
+    {
+        "name": "Kedai Sriwidari 68",
+        "address": "Jl. Sriwidari No.70",
+        "rating": "4,7"
+    },
+    {
+        "name": "Viesta Coffee & Dining",
+        "address": "Jl. Siliwangi No.115",
+        "rating": "4,4"
+    },
+    {
+        "name": "Gourmet Coffeenery",
+        "address": "Jl. R. E. Martadinata No.31",
+        "rating": "4,6"
+    },
+    {
+        "name": "Kopi Warga Sukabumi",
+        "address": "3WJQ+JR7, Jl. Samsi Jl. Babakan Jampang, RT.1/RW.19",
+        "rating": "5,0"
+    },
+    {
+        "name": "C'KOPI GAUD",
+        "address": "Jl. A. Yani No.39",
+        "rating": "4,5"
+    },
+    {
+        "name": "Co-Feed Coffee",
+        "address": "Jl. Dewi Sartika No.39",
+        "rating": "4,9"
+    },
+    {
+        "name": "Kedai Kopi 35",
+        "address": "Jl. Surya Kencana No.101",
+        "rating": "4,6"
+    },
+    {
+        "name": "Brue",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,7"
+    },
+    {
+        "name": "Tekun.id Sukabumi",
+        "address": "Jl. Ir. H. Juanda",
+        "rating": "4,9"
+    },
+    {
+        "name": "Khumaira Cafe",
+        "address": "4V2X+HRV, Kp, Jl. Cikiray Kaler",
+        "rating": "5,0"
+    },
+    {
+        "name": "Kedai kopi & teh GRACIA",
+        "address": "Jl. A. Yani Gg Kebon Kelapa No.8",
+        "rating": "5,0"
+    },
+    {
+        "name": "Kopi Kamana - Sriwidari",
+        "address": "Jl. Sriwidari",
+        "rating": "4,7"
+    },
+    {
+        "name": "Thread Coffee",
+        "address": "Jl. Kenari No.12",
+        "rating": "4,8"
+    },
+    {
+        "name": "Point Cafe Raden Samsudin",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,8"
+    },
+    {
+        "name": "Mokopi Jungle",
+        "address": "Jl. Selabintana No.Km.6",
+        "rating": "4,4"
+    },
+    {
+        "name": "Manan Coffe",
+        "address": "3WMJ+JM5, Jl. Bhayangkara",
+        "rating": "4,4"
+    },
+    {
+        "name": "Point Coffee",
+        "address": "Alamat tidak ditemukan",
+        "rating": "5,0"
+    },
+    {
+        "name": "De'Garasi kopi x antilegend stockroom",
+        "address": "Jl. Tipar No.68-64",
+        "rating": "4,4"
+    },
+    {
+        "name": "Kopi depan rumah",
+        "address": "Jl. Balai Desa No.19",
+        "rating": "5,0"
+    },
+    {
+        "name": "Kopi Kamana - Lettu Bakri",
+        "address": "Jl. Lettu Bakri No.8",
+        "rating": "4,7"
+    },
+    {
+        "name": "Kedai Coffe KOPDUDE",
+        "address": "Jl. Pajajaran 1 No.36",
+        "rating": "4,7"
+    },
+    {
+        "name": "Choma",
+        "address": "Jl. Kenari No.1A",
+        "rating": "5,0"
+    },
+    {
+        "name": "Sulanjana coffee & Eatery",
+        "address": "4W4Q+39H, Jl. Selabintana",
+        "rating": "4,8"
+    },
+    {
+        "name": "Mason Coffee",
+        "address": "Jl. Selabintana No.399, RT.06/RW.03",
+        "rating": "4,5"
+    },
+    {
+        "name": "Kedai Kopi Nusantara Sukabumi",
+        "address": "Jl. Cicantayan",
+        "rating": "4,7"
+    },
+    {
+        "name": "Kopitiam Sukabumi",
+        "address": "Jalan Surya Kencana, Selabatu, Cikole, Jl. Surya Kencana No.50",
+        "rating": "4,4"
+    },
+    {
+        "name": "Mokopi Jalur",
+        "address": "Jl. Tangkil - Agrabinta",
+        "rating": "4,1"
+    },
+    {
+        "name": "Bapak hitam cafe",
+        "address": "Alamat tidak ditemukan",
+        "rating": "5,0"
+    },
+    {
+        "name": "Kopi Janji Jiwa Sukabumi",
+        "address": "Jl. Bhayangkara No.38",
+        "rating": "4,6"
+    },
+    {
+        "name": "ABADI CAFE - COFFE & BOBA Cibaraja",
+        "address": "Jl. Cagak - Cibaraja No.41",
+        "rating": "4,6"
+    },
+    {
+        "name": "VIDI Coffee Kopling On Bike",
+        "address": "Jl. Alun-alun Utara. Kelurahan gunung parang. Kecamatan Cikole. Kota",
+        "rating": "5,0"
+    },
+    {
+        "name": "HERBIE Coffee",
+        "address": "Jl. Pajajaran 1 RW13 blok AC9 No.RT.42",
+        "rating": "5,0"
+    },
+    {
+        "name": "Seecul Signature Kaum",
+        "address": "Jl. Masjid No.11",
+        "rating": "4,7"
+    },
+    {
+        "name": "warkop veteran27 sukabumi",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,2"
+    },
+    {
+        "name": "Mr.yos",
+        "address": "Jl. Gudang No.1",
+        "rating": "5,0"
+    },
+    {
+        "name": "Kalijodocoffee Sukabumi",
+        "address": "Jl. R. E. Martadinata No.21",
+        "rating": "4,6"
+    },
+    {
+        "name": "Kaisha palace Food and coffee",
+        "address": "Jl. Siliwangi No.80",
+        "rating": "4,5"
+    },
+    {
+        "name": "Kopitiam Zakse",
+        "address": "Jl. Zaenal Zakse No.9B",
+        "rating": "4,6"
+    },
+    {
+        "name": "Warga Holy",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,6"
+    },
+    {
+        "name": "Teras Kopi",
+        "address": "Alamat tidak ditemukan",
+        "rating": "5,0"
+    },
+    {
+        "name": "Warung jajang",
+        "address": "Jl. R. E. Martadinata No.4",
+        "rating": "5,0"
+    },
+    {
+        "name": "D'Green Resto and Coffee",
+        "address": "Jl. Selabintana No.54",
+        "rating": "4,5"
+    },
+    {
+        "name": "stop in coffee",
+        "address": "Jl. Selabintana No.kec No.143",
+        "rating": "5,0"
+    },
+    {
+        "name": "Kedai Saribhumi",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,5"
+    },
+    {
+        "name": "Point Coffee Jalur Sukabumi",
+        "address": "Jl. RAYA LINGKAR SLEATAN, JALUR ) SINDANG SARI",
+        "rating": "4,6"
+    },
+    {
+        "name": "Cafe Kappe",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,4"
+    },
+    {
+        "name": "Code Coffee",
+        "address": "Jl. Selabintana No.23",
+        "rating": "4,7"
+    },
+    {
+        "name": "Red Brick Cafe",
+        "address": "Jl. Pelabuhan II No.271",
+        "rating": "4,6"
+    },
+    {
+        "name": "Rumah teman",
+        "address": "Jl. Syamsudin. SH Gg. Ajid 2 No.4",
+        "rating": "4,5"
+    },
+    {
+        "name": "KOMIE",
+        "address": "Jl. Sriwidari No.34",
+        "rating": "4,6"
+    },
+    {
+        "name": "DISISICOFFEE",
+        "address": "Jl. Pajagalan No.19",
+        "rating": "4,7"
+    },
+    {
+        "name": "Selamat Ngopi ( coffee corners )",
+        "address": "Jl. KH. Ahmad Sanusi No.111",
+        "rating": "5,0"
+    },
+    {
+        "name": "Brewcave Brewtherhood",
+        "address": "Jl. R. E. Martadinata Gg. Ajid I No.11",
+        "rating": "4,8"
+    },
+    {
+        "name": "He's Kitchen",
+        "address": "Jl. R. E. Martadinata No.31",
+        "rating": "4,0"
+    },
+    {
+        "name": "Coffee Cienta Sukabumi",
+        "address": "3WHC+MRM Soedirman Street Food Sukabumi, Jl. Sudirman",
+        "rating": "5,0"
+    },
+    {
+        "name": "Kedai Coffee Saayana",
+        "address": "Jl. Cikiray-Cijambu No.40",
+        "rating": "4,1"
+    },
+    {
+        "name": "Discovery Rooftop Cafe",
+        "address": "Fresh Hotel, Jl. Bhayangkara No.127 Building, 5th Floor",
+        "rating": "4,3"
+    },
+    {
+        "name": "Angkringan Kopi Joss Sukabumi",
+        "address": "Jl. Benteng Kidul No.22-19",
+        "rating": "4,7"
+    },
+    {
+        "name": "Kedai Kong Djie Coffee",
+        "address": "Jl. Cikole Dalam No.13",
+        "rating": "4,5"
+    },
+    {
+        "name": "Kopi Merdeka Sukabumi",
+        "address": "Jl. Veteran II No.2",
+        "rating": "5,0"
+    },
+    {
+        "name": "Praline Sukabumi",
+        "address": "Jl. Surya Kencana No.82",
+        "rating": "4,5"
+    },
+    {
+        "name": "Kedai Kopi Jarian",
+        "address": "Jl. Cipelang Leutik No.11-127",
+        "rating": "4,9"
+    },
+    {
+        "name": "Kopi Dermawan",
+        "address": "Jl. Surya Kencana No.52",
+        "rating": "4,3"
+    },
+    {
+        "name": "Ground 68 Coffe & Eatery",
+        "address": "Jl. Siliwangi No.68",
+        "rating": "4,5"
+    },
+    {
+        "name": "Cafe Nyoempoet",
+        "address": "Girang, Jl. Rambai-Cipanengah Jl. Lkr. Sel.",
+        "rating": "4,5"
+    },
+    {
+        "name": "Vayou Coffee",
+        "address": "Alamat tidak ditemukan",
+        "rating": "N/A"
+    },
+    {
+        "name": "HAUS BENTENG SUKABUMI",
+        "address": "Jl. Arif Rahman Hakim No.76-72",
+        "rating": "4,4"
+    },
+    {
+        "name": "Kopi lain hati",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,6"
+    },
+    {
+        "name": "Janji Jiwa & Jiwa Toast RE Martadinata 369",
+        "address": "Jl. R. E. Martadinata No.48",
+        "rating": "5,0"
+    },
+    {
+        "name": "Crowded coffee",
+        "address": "Jl. Sudirman",
+        "rating": "4,9"
+    },
+    {
+        "name": "SISI UTARA Coffee",
+        "address": "Jl. Selabintana No.KM.6",
+        "rating": "4,6"
+    },
+    {
+        "name": "MARA cafe",
+        "address": "Jl. Siliwangi No.75",
+        "rating": "4,2"
+    },
+    {
+        "name": "Blok A Coffee",
+        "address": "Jl. Siliwangi No.48",
+        "rating": "5,0"
+    },
+    {
+        "name": "Warkop May Day",
+        "address": "Jl. Pajagalan",
+        "rating": "4,9"
+    },
+    {
+        "name": "KUSBICK COFFEE",
+        "address": "Jl. Sriwidari No.50",
+        "rating": "4,4"
+    },
+    {
+        "name": "TAWACOFFEE SUKABUMI",
+        "address": "Jl. Kenari No.18-14",
+        "rating": "5,0"
+    },
+    {
+        "name": "VW Coffee Sukabumi",
+        "address": "Jl. Sudirman No.31",
+        "rating": "5,0"
+    }
+]
