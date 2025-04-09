@@ -6,3 +6,6 @@ sqlalchemy
 matplotlib
 seaborn
 Sastrawi
+Flask
+jsonify
+load_dotenv
