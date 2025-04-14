@@ -1,0 +1,141 @@
+{
+	"info": {
+		"_postman_id": "1f597eec-77c1-4150-a5db-1e362667b7bd",
+		"name": "Recomendation Cafe",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17838458"
+	},
+	"item": [
+		{
+			"name": "connection",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/connection",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"connection"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "scrape",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/scrape?query=coffee+shop+di+Sukabumi,+Jawa+Barat",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"scrape"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "coffee+shop+di+Sukabumi,+Jawa+Barat"
+						},
+						{
+							"key": "query",
+							"value": "coffee+shop+di+Jakarta+Selatan",
+							"disabled": true
+						},
+						{
+							"key": "query",
+							"value": "coffee+shop+di+bekasi+timur",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "recomendation",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/recomendation?limit=2",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"recomendation"
+					],
+					"query": [
+						{
+							"key": "limit",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "health",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/health",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"health"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "coffee+shop+di+Jakarta+Selatan",
+							"disabled": true
+						},
+						{
+							"key": "query",
+							"value": "coffee+shop+di+bekasi+timur",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "url",
+			"value": "http://127.0.0.1:5000/api",
+			"type": "string"
+		}
+	]
+}

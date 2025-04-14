@@ -15,16 +15,7 @@
         "latitude": -6.917897,
         "longitude": 106.9303913,
         "link": "https://www.google.com/maps/place/Like+Earth+Coffee/data=!4m7!3m6!1s0x2e6849939c7d51cf:0x47da53ba2be4d4b9!8m2!3d-6.917897!4d106.9303913!16s%2Fg%2F11f65bn169!19sChIJz1F9nJNJaC4RudTkK7pT2kc?authuser=0&hl=id&rclk=1",
-        "total_reviews": 2224
-    },
-    {
-        "name": "C'KOPI GAUD",
-        "address": "Jl. A. Yani No.39",
-        "rating": "4,5",
-        "latitude": -6.9216695,
-        "longitude": 106.9249364,
-        "link": "https://www.google.com/maps/place/C%27KOPI+GAUD/data=!4m7!3m6!1s0x2e68483019be9e79:0xfa33acd24fc86e97!8m2!3d-6.9216695!4d106.9249364!16s%2Fg%2F11btsvdfml!19sChIJeZ6-GTBIaC4Rl27IT9KsM_o?authuser=0&hl=id&rclk=1",
-        "total_reviews": 504
+        "total_reviews": 2225
     },
     {
         "name": "The Gade Corner Coffee and Gold Sukabumi",
@@ -36,15 +27,6 @@
         "total_reviews": 191
     },
     {
-        "name": "Yume Coffee",
-        "address": "Jl. Surya Kencana No.31",
-        "rating": "4,8",
-        "latitude": -6.9171048,
-        "longitude": 106.929665,
-        "link": "https://www.google.com/maps/place/Yume+Coffee/data=!4m7!3m6!1s0x2e6849f1fae10057:0x80f44f9702ecb7cd!8m2!3d-6.9171048!4d106.929665!16s%2Fg%2F11pbc49wy3!19sChIJVwDh-vFJaC4RzbfsApdP9IA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 399
-    },
-    {
         "name": "Cafe van Mila",
         "address": "Jl. Raya Cemerlang",
         "rating": "4,6",
@@ -54,13 +36,22 @@
         "total_reviews": 913
     },
     {
+        "name": "Yume Coffee",
+        "address": "Jl. Surya Kencana No.31",
+        "rating": "4,8",
+        "latitude": -6.9171048,
+        "longitude": 106.929665,
+        "link": "https://www.google.com/maps/place/Yume+Coffee/data=!4m7!3m6!1s0x2e6849f1fae10057:0x80f44f9702ecb7cd!8m2!3d-6.9171048!4d106.929665!16s%2Fg%2F11pbc49wy3!19sChIJVwDh-vFJaC4RzbfsApdP9IA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 399
+    },
+    {
         "name": "Habit Coffee",
         "address": "Jl. Bhayangkara No.91",
         "rating": "4,7",
         "latitude": -6.9142624,
         "longitude": 106.9199599,
         "link": "https://www.google.com/maps/place/Habit+Coffee/data=!4m7!3m6!1s0x2e68494a7b03b809:0x63b13e2749581c9e!8m2!3d-6.9142624!4d106.9199599!16s%2Fg%2F11t7m0_xdj!19sChIJCbgDe0pJaC4RnhxYSSc-sWM?authuser=0&hl=id&rclk=1",
-        "total_reviews": 244
+        "total_reviews": 246
     },
     {
         "name": "Barn Coffee",
@@ -81,6 +72,24 @@
         "total_reviews": 188
     },
     {
+        "name": "Dago House Food and Coffee Bar",
+        "address": "Jl. Ir. H. Juanda No.5",
+        "rating": "4,5",
+        "latitude": -6.919988,
+        "longitude": 106.9310191,
+        "link": "https://www.google.com/maps/place/Dago+House+Food+and+Coffee+Bar/data=!4m7!3m6!1s0x2e68483727328813:0x60849e2174dde142!8m2!3d-6.919988!4d106.9310191!16s%2Fg%2F11gcn1kwc5!19sChIJE4gyJzdIaC4RQuHddCGehGA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 840
+    },
+    {
+        "name": "Seecul Coffee Bar",
+        "address": "3WHG+WWG, Jl. Perintis Kemerdekaan No.2",
+        "rating": "4,7",
+        "latitude": -6.9202731,
+        "longitude": 106.9273496,
+        "link": "https://www.google.com/maps/place/Seecul+Coffee+Bar/data=!4m7!3m6!1s0x2e684830fe84a7f7:0xedb745d74a58e691!8m2!3d-6.9202731!4d106.9273496!16s%2Fg%2F11c60h851g!19sChIJ96eE_jBIaC4RkeZYStdFt-0?authuser=0&hl=id&rclk=1",
+        "total_reviews": 253
+    },
+    {
         "name": "Sukabumi Coffee Center",
         "address": "Jl. Mayawati Cafitol Plaza No.76 Lt. 1",
         "rating": "5,0",
@@ -88,24 +97,6 @@
         "longitude": 106.9268733,
         "link": "https://www.google.com/maps/place/Sukabumi+Coffee+Center/data=!4m7!3m6!1s0x2e6849001a56a705:0xda529dbda9c662be!8m2!3d-6.9215855!4d106.9268733!16s%2Fg%2F11vpdh3jgl!19sChIJBadWGgBJaC4RvmLGqb2dUto?authuser=0&hl=id&rclk=1",
         "total_reviews": 82
-    },
-    {
-        "name": "Dago House Food and Coffee Bar",
-        "address": "Jl. Ir. H. Juanda No.5",
-        "rating": "4,5",
-        "latitude": -6.919988,
-        "longitude": 106.9310191,
-        "link": "https://www.google.com/maps/place/Dago+House+Food+and+Coffee+Bar/data=!4m7!3m6!1s0x2e68483727328813:0x60849e2174dde142!8m2!3d-6.919988!4d106.9310191!16s%2Fg%2F11gcn1kwc5!19sChIJE4gyJzdIaC4RQuHddCGehGA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 839
-    },
-    {
-        "name": "Kopi Nako Sukabumi",
-        "address": "Jl. Mayor Mahmud",
-        "rating": "4,8",
-        "latitude": -6.9050142,
-        "longitude": 106.9415424,
-        "link": "https://www.google.com/maps/place/Kopi+Nako+Sukabumi/data=!4m7!3m6!1s0x2e6849ab86d58d3b:0x4a5ce73411d9faf!8m2!3d-6.9050142!4d106.9415424!16s%2Fg%2F11l1jqzj7f!19sChIJO43VhqtJaC4Rr58dQXPOpQQ?authuser=0&hl=id&rclk=1",
-        "total_reviews": 2286
     },
     {
         "name": "K&J Coffee",
@@ -117,31 +108,13 @@
         "total_reviews": 65
     },
     {
-        "name": "OREGONCOFFEEBAR",
-        "address": "Jl. Lkr. Sel.",
-        "rating": "4,8",
-        "latitude": -6.9469137,
-        "longitude": 106.94039,
-        "link": "https://www.google.com/maps/place/OREGONCOFFEEBAR/data=!4m7!3m6!1s0x2e6849d8aa71a311:0x3edde016a8441484!8m2!3d-6.9469137!4d106.94039!16s%2Fg%2F11mhnqhwbf!19sChIJEaNxqthJaC4RhBREqBbg3T4?authuser=0&hl=id&rclk=1",
-        "total_reviews": 296
-    },
-    {
-        "name": "Seecul Coffee Bar",
-        "address": "3WHG+WWG, Jl. Perintis Kemerdekaan No.2",
-        "rating": "4,7",
-        "latitude": -6.9202731,
-        "longitude": 106.9273496,
-        "link": "https://www.google.com/maps/place/Seecul+Coffee+Bar/data=!4m7!3m6!1s0x2e684830fe84a7f7:0xedb745d74a58e691!8m2!3d-6.9202731!4d106.9273496!16s%2Fg%2F11c60h851g!19sChIJ96eE_jBIaC4RkeZYStdFt-0?authuser=0&hl=id&rclk=1",
-        "total_reviews": 253
-    },
-    {
-        "name": "Seecul Coffee Bar",
-        "address": "Jl. Raya Cemerlang No.8-10",
-        "rating": "4,8",
-        "latitude": -6.916904,
-        "longitude": 106.9040144,
-        "link": "https://www.google.com/maps/place/Seecul+Coffee+Bar/data=!4m7!3m6!1s0x2e6837d153d033ab:0x4c4575f7564be087!8m2!3d-6.916904!4d106.9040144!16s%2Fg%2F11hbpr14vh!19sChIJqzPQU9E3aC4Rh-BLVvd1RUw?authuser=0&hl=id&rclk=1",
-        "total_reviews": 69
+        "name": "Kopi Nako Sukabumi",
+        "address": "Jl. Mayor Mahmud",
+        "rating": "4,9",
+        "latitude": -6.9050142,
+        "longitude": 106.9415424,
+        "link": "https://www.google.com/maps/place/Kopi+Nako+Sukabumi/data=!4m7!3m6!1s0x2e6849ab86d58d3b:0x4a5ce73411d9faf!8m2!3d-6.9050142!4d106.9415424!16s%2Fg%2F11l1jqzj7f!19sChIJO43VhqtJaC4Rr58dQXPOpQQ?authuser=0&hl=id&rclk=1",
+        "total_reviews": 2292
     },
     {
         "name": "Analog Koffiehuis",
@@ -153,33 +126,6 @@
         "total_reviews": 282
     },
     {
-        "name": "VD Coffee",
-        "address": "Jl. Cikiray-Cijambu No.40",
-        "rating": "4,5",
-        "latitude": -6.9106222,
-        "longitude": 106.8975234,
-        "link": "https://www.google.com/maps/place/VD+Coffee/data=!4m7!3m6!1s0x2e6837805efa20ef:0x54cbb74ee7a5840f!8m2!3d-6.9106222!4d106.8975234!16s%2Fg%2F11pm3ps3p3!19sChIJ7yD6XoA3aC4RD4Sl5063y1Q?authuser=0&hl=id&rclk=1",
-        "total_reviews": 141
-    },
-    {
-        "name": "Fore Coffee - Citimall Sukabumi",
-        "address": "Citimall Sukabumi, Jl. A. Yani No.121-127 Ground Floor Unit G-0115",
-        "rating": "4,7",
-        "latitude": -6.922197,
-        "longitude": 106.9287538,
-        "link": "https://www.google.com/maps/place/Fore+Coffee+-+Citimall+Sukabumi/data=!4m7!3m6!1s0x2e684991dae18313:0xa141641b64ed67f2!8m2!3d-6.922197!4d106.9287538!16s%2Fg%2F11t0pbk97b!19sChIJE4Ph2pFJaC4R8mftZBtkQaE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 134
-    },
-    {
-        "name": "Mason Coffee",
-        "address": "Ruko Mutiara 8, Jl. KH. Ahmad Sanusi No.259 Rt.001/005",
-        "rating": "4,5",
-        "latitude": -6.9166737,
-        "longitude": 106.9081878,
-        "link": "https://www.google.com/maps/place/Mason+Coffee/data=!4m7!3m6!1s0x2e6837add4f7d2d7:0x11d42aec5cbf5a59!8m2!3d-6.9166737!4d106.9081878!16s%2Fg%2F11fw4s98vl!19sChIJ19L31K03aC4RWVq_XOwq1BE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 70
-    },
-    {
         "name": "Seecul Coffee Bar",
         "address": "Jl. Raya Cemerlang No.8-10",
         "rating": "4,8",
@@ -187,15 +133,6 @@
         "longitude": 106.9040144,
         "link": "https://www.google.com/maps/place/Seecul+Coffee+Bar/data=!4m7!3m6!1s0x2e6837d153d033ab:0x4c4575f7564be087!8m2!3d-6.916904!4d106.9040144!16s%2Fg%2F11hbpr14vh!19sChIJqzPQU9E3aC4Rh-BLVvd1RUw?authuser=0&hl=id&rclk=1",
         "total_reviews": 69
-    },
-    {
-        "name": "Kopitiam Zakse",
-        "address": "Jl. Zaenal Zakse No.9B",
-        "rating": "4,6",
-        "latitude": -6.9223259,
-        "longitude": 106.93087,
-        "link": "https://www.google.com/maps/place/Kopitiam+Zakse/data=!4m7!3m6!1s0x2e684837591e47eb:0x349d874c617e6905!8m2!3d-6.9223259!4d106.93087!16s%2Fg%2F11bzyqwgvb!19sChIJ60ceWTdIaC4RBWl-YUyHnTQ?authuser=0&hl=id&rclk=1",
-        "total_reviews": 153
     },
     {
         "name": "VD Coffee",
@@ -213,16 +150,601 @@
         "latitude": -6.9469137,
         "longitude": 106.94039,
         "link": "https://www.google.com/maps/place/OREGONCOFFEEBAR/data=!4m7!3m6!1s0x2e6849d8aa71a311:0x3edde016a8441484!8m2!3d-6.9469137!4d106.94039!16s%2Fg%2F11mhnqhwbf!19sChIJEaNxqthJaC4RhBREqBbg3T4?authuser=0&hl=id&rclk=1",
-        "total_reviews": 296
+        "total_reviews": 299
+    },
+    {
+        "name": "Coffee Chaproek",
+        "address": "Jl. A. Yani No.23",
+        "rating": "4,6",
+        "latitude": -6.921457,
+        "longitude": 106.9234728,
+        "link": "https://www.google.com/maps/place/Coffee+Chaproek/data=!4m7!3m6!1s0x2e6848308435477f:0xd1bdff01e0deb41d!8m2!3d-6.921457!4d106.9234728!16s%2Fg%2F11f0g9btt_!19sChIJf0c1hDBIaC4RHbTe4AH_vdE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 196
+    },
+    {
+        "name": "Coffee.Sejiwa",
+        "address": "Jl. Cikiray Kidul No.146",
+        "rating": "4,4",
+        "latitude": -6.9063086,
+        "longitude": 106.8961914,
+        "link": "https://www.google.com/maps/place/Coffee.Sejiwa/data=!4m7!3m6!1s0x2e6837beaecfd38f:0x7c20c1acaf36b66d!8m2!3d-6.9063086!4d106.8961914!16s%2Fg%2F11pvgrkgz9!19sChIJj9PPrr43aC4RbbY2r6zBIHw?authuser=0&hl=id&rclk=1",
+        "total_reviews": 194
+    },
+    {
+        "name": "Fore Coffee - Citimall Sukabumi",
+        "address": "Citimall Sukabumi, Jl. A. Yani No.121-127 Ground Floor Unit G-0115",
+        "rating": "4,7",
+        "latitude": -6.922197,
+        "longitude": 106.9287538,
+        "link": "https://www.google.com/maps/place/Fore+Coffee+-+Citimall+Sukabumi/data=!4m7!3m6!1s0x2e684991dae18313:0xa141641b64ed67f2!8m2!3d-6.922197!4d106.9287538!16s%2Fg%2F11t0pbk97b!19sChIJE4Ph2pFJaC4R8mftZBtkQaE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 137
     },
     {
         "name": "Seecul Coffee Bar",
-        "address": "3WHG+WWG, Jl. Perintis Kemerdekaan No.2",
+        "address": "Jl. Syamsudin. SH No.1",
         "rating": "4,7",
-        "latitude": -6.9202731,
-        "longitude": 106.9273496,
-        "link": "https://www.google.com/maps/place/Seecul+Coffee+Bar/data=!4m7!3m6!1s0x2e684830fe84a7f7:0xedb745d74a58e691!8m2!3d-6.9202731!4d106.9273496!16s%2Fg%2F11c60h851g!19sChIJ96eE_jBIaC4RkeZYStdFt-0?authuser=0&hl=id&rclk=1",
-        "total_reviews": 253
+        "latitude": -6.9175535,
+        "longitude": 106.9299471,
+        "link": "https://www.google.com/maps/place/Seecul+Coffee+Bar/data=!4m7!3m6!1s0x2e684836aacef687:0xbced4485369cfe0a!8m2!3d-6.9175535!4d106.9299471!16s%2Fg%2F11b6_mnntl!19sChIJh_bOqjZIaC4RCv6cNoVE7bw?authuser=0&hl=id&rclk=1",
+        "total_reviews": 190
+    },
+    {
+        "name": "Kopi Nako Sukabumi",
+        "address": "Jl. Mayor Mahmud",
+        "rating": "4,9",
+        "latitude": -6.9050142,
+        "longitude": 106.9415424,
+        "link": "https://www.google.com/maps/place/Kopi+Nako+Sukabumi/data=!4m7!3m6!1s0x2e6849ab86d58d3b:0x4a5ce73411d9faf!8m2!3d-6.9050142!4d106.9415424!16s%2Fg%2F11l1jqzj7f!19sChIJO43VhqtJaC4Rr58dQXPOpQQ?authuser=0&hl=id&rclk=1",
+        "total_reviews": 2292
+    },
+    {
+        "name": "C'KOPI GAUD",
+        "address": "Jl. A. Yani No.39",
+        "rating": "4,5",
+        "latitude": -6.9216695,
+        "longitude": 106.9249364,
+        "link": "https://www.google.com/maps/place/C%27KOPI+GAUD/data=!4m7!3m6!1s0x2e68483019be9e79:0xfa33acd24fc86e97!8m2!3d-6.9216695!4d106.9249364!16s%2Fg%2F11btsvdfml!19sChIJeZ6-GTBIaC4Rl27IT9KsM_o?authuser=0&hl=id&rclk=1",
+        "total_reviews": 504
+    },
+    {
+        "name": "Tji Colle Eatery And Coffe Shop",
+        "address": "Jl. Surya Kencana No.38",
+        "rating": "4,5",
+        "latitude": -6.9169895,
+        "longitude": 106.9305169,
+        "link": "https://www.google.com/maps/place/Tji+Colle+Eatery+And+Coffe+Shop/data=!4m7!3m6!1s0x2e6848340437052f:0x9ff0140cb55e1a6d!8m2!3d-6.9169895!4d106.9305169!16s%2Fg%2F11c51_ywby!19sChIJLwU3BDRIaC4RbRpetQwU8J8?authuser=0&hl=id&rclk=1",
+        "total_reviews": 153
+    },
+    {
+        "name": "OREGONCOFFEEBAR",
+        "address": "Jl. Lkr. Sel.",
+        "rating": "4,8",
+        "latitude": -6.9469137,
+        "longitude": 106.94039,
+        "link": "https://www.google.com/maps/place/OREGONCOFFEEBAR/data=!4m7!3m6!1s0x2e6849d8aa71a311:0x3edde016a8441484!8m2!3d-6.9469137!4d106.94039!16s%2Fg%2F11mhnqhwbf!19sChIJEaNxqthJaC4RhBREqBbg3T4?authuser=0&hl=id&rclk=1",
+        "total_reviews": 299
+    },
+    {
+        "name": "Gourmet Coffeenery",
+        "address": "Jl. R. E. Martadinata No.31",
+        "rating": "4,6",
+        "latitude": -6.9204149,
+        "longitude": 106.930855,
+        "link": "https://www.google.com/maps/place/Gourmet+Coffeenery/data=!4m7!3m6!1s0x2e68495873ecbca3:0x241bd6a840a6d0c4!8m2!3d-6.9204149!4d106.930855!16s%2Fg%2F11f5qdgldk!19sChIJo7zsc1hJaC4RxNCmQKjWGyQ?authuser=0&hl=id&rclk=1",
+        "total_reviews": 938
+    },
+    {
+        "name": "Starbucks Siliwangi Sukabumi",
+        "address": "Jl. Siliwangi No.76",
+        "rating": "4,7",
+        "latitude": -6.9182585,
+        "longitude": 106.9363307,
+        "link": "https://www.google.com/maps/place/Starbucks+Siliwangi+Sukabumi/data=!4m7!3m6!1s0x2e6849a100887d59:0x794fe2e192912370!8m2!3d-6.9182585!4d106.9363307!16s%2Fg%2F11rqsmf77h!19sChIJWX2IAKFJaC4RcCORkuHiT3k?authuser=0&hl=id&rclk=1",
+        "total_reviews": 448
+    },
+    {
+        "name": "Mason Coffee",
+        "address": "Ruko Mutiara 8, Jl. KH. Ahmad Sanusi No.259 Rt.001/005",
+        "rating": "4,5",
+        "latitude": -6.9166737,
+        "longitude": 106.9081878,
+        "link": "https://www.google.com/maps/place/Mason+Coffee/data=!4m7!3m6!1s0x2e6837add4f7d2d7:0x11d42aec5cbf5a59!8m2!3d-6.9166737!4d106.9081878!16s%2Fg%2F11fw4s98vl!19sChIJ19L31K03aC4RWVq_XOwq1BE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 71
+    },
+    {
+        "name": "Kukira Coffee",
+        "address": "Jl. Bhayangkara No.6",
+        "rating": "4,6",
+        "latitude": -6.9187496,
+        "longitude": 106.9163431,
+        "link": "https://www.google.com/maps/place/Kukira+Coffee/data=!4m7!3m6!1s0x2e684986b7ce38ab:0x6aa7c2222244f3a2!8m2!3d-6.9187496!4d106.9163431!16s%2Fg%2F11s7wdm2h7!19sChIJqzjOt4ZJaC4RovNEIiLCp2o?authuser=0&hl=id&rclk=1",
+        "total_reviews": 27
+    },
+    {
+        "name": "Vanjaloe Coffe Shop",
+        "address": "Jl. Selabintana No.Km, RW.4",
+        "rating": "4,9",
+        "latitude": -6.8953314,
+        "longitude": 106.9386029,
+        "link": "https://www.google.com/maps/place/Vanjaloe+Coffe+Shop/data=!4m7!3m6!1s0x2e68491a42918d91:0x37f4a66fb6e6b8f!8m2!3d-6.8953314!4d106.9386029!16s%2Fg%2F11q_31f_d_!19sChIJkY2RQhpJaC4Rj2tu-2ZKfwM?authuser=0&hl=id&rclk=1",
+        "total_reviews": 21
+    },
+    {
+        "name": "Kedai Kopi 35",
+        "address": "Jl. Surya Kencana No.101",
+        "rating": "4,6",
+        "latitude": -6.9110476,
+        "longitude": 106.9346821,
+        "link": "https://www.google.com/maps/place/Kedai+Kopi+35/data=!4m7!3m6!1s0x2e6849745e51467f:0xaddf5df328382c4!8m2!3d-6.9110476!4d106.9346821!16s%2Fg%2F11gk6pwy1q!19sChIJf0ZRXnRJaC4RxIKDMt_13Qo?authuser=0&hl=id&rclk=1",
+        "total_reviews": 365
+    },
+    {
+        "name": "Somewhere Coffee",
+        "address": "Jl. Ciaul Jl. Selabintana",
+        "rating": "4,6",
+        "latitude": -6.8939638,
+        "longitude": 106.94169,
+        "link": "https://www.google.com/maps/place/Somewhere+Coffee/data=!4m7!3m6!1s0x2e6849b19d34cd4d:0x8e4ca460a49896c9!8m2!3d-6.8939638!4d106.94169!16s%2Fg%2F11lnvn2llc!19sChIJTc00nbFJaC4RyZaYpGCkTI4?authuser=0&hl=id&rclk=1",
+        "total_reviews": 177
+    },
+    {
+        "name": "Thread Coffee",
+        "address": "Jl. Kenari No.12",
+        "rating": "4,8",
+        "latitude": -6.9148603,
+        "longitude": 106.9299571,
+        "link": "https://www.google.com/maps/place/Thread+Coffee/data=!4m7!3m6!1s0x2e684910ed965b95:0x1eef3bb35e9035d2!8m2!3d-6.9148603!4d106.9299571!16s%2Fg%2F11kp5sz4vs!19sChIJlVuW7RBJaC4R0jWQXrM77x4?authuser=0&hl=id&rclk=1",
+        "total_reviews": 22
+    },
+    {
+        "name": "Fore Coffee - Citimall Sukabumi",
+        "address": "Citimall Sukabumi, Jl. A. Yani No.121-127 Ground Floor Unit G-0115",
+        "rating": "4,7",
+        "latitude": -6.922197,
+        "longitude": 106.9287538,
+        "link": "https://www.google.com/maps/place/Fore+Coffee+-+Citimall+Sukabumi/data=!4m7!3m6!1s0x2e684991dae18313:0xa141641b64ed67f2!8m2!3d-6.922197!4d106.9287538!16s%2Fg%2F11t0pbk97b!19sChIJE4Ph2pFJaC4R8mftZBtkQaE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 137
+    },
+    {
+        "name": "Coffee.Sejiwa",
+        "address": "Jl. Cikiray Kidul No.146",
+        "rating": "4,4",
+        "latitude": -6.9063086,
+        "longitude": 106.8961914,
+        "link": "https://www.google.com/maps/place/Coffee.Sejiwa/data=!4m7!3m6!1s0x2e6837beaecfd38f:0x7c20c1acaf36b66d!8m2!3d-6.9063086!4d106.8961914!16s%2Fg%2F11pvgrkgz9!19sChIJj9PPrr43aC4RbbY2r6zBIHw?authuser=0&hl=id&rclk=1",
+        "total_reviews": 194
+    },
+    {
+        "name": "MOKODO SPACE",
+        "address": "Jl. Pelabuhan II No.178",
+        "rating": "4,6",
+        "latitude": -6.9337058,
+        "longitude": 106.9249425,
+        "link": "https://www.google.com/maps/place/MOKODO+SPACE/data=!4m7!3m6!1s0x2e6849a4eb5aac35:0xeb48e7175dc749!8m2!3d-6.9337058!4d106.9249425!16s%2Fg%2F11fvw_ty5z!19sChIJNaxa66RJaC4RScddF-dI6wA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 462
+    },
+    {
+        "name": "Brue",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,7",
+        "latitude": -6.917467,
+        "longitude": 106.9313126,
+        "link": "https://www.google.com/maps/place/Brue/data=!4m7!3m6!1s0x2e684987b0c938ad:0xa846ed4cf4361deb!8m2!3d-6.917467!4d106.9313126!16s%2Fg%2F11vdf9qrm5!19sChIJrTjJsIdJaC4R6x029EztRqg?authuser=0&hl=id&rclk=1",
+        "total_reviews": 55
+    },
+    {
+        "name": "Viesta Coffee & Dining",
+        "address": "Jl. Siliwangi No.115",
+        "rating": "4,4",
+        "latitude": -6.9138142,
+        "longitude": 106.9351942,
+        "link": "https://www.google.com/maps/place/Viesta+Coffee+%26+Dining/data=!4m7!3m6!1s0x2e684835659e85e1:0xb6f793b14f2118e7!8m2!3d-6.9138142!4d106.9351942!16s%2Fg%2F11c3_1wtkx!19sChIJ4YWeZTVIaC4R5xghT7GT97Y?authuser=0&hl=id&rclk=1",
+        "total_reviews": 634
+    },
+    {
+        "name": "Tekun.id Sukabumi",
+        "address": "Jl. Ir. H. Juanda",
+        "rating": "4,9",
+        "latitude": -6.9202609,
+        "longitude": 106.9309856,
+        "link": "https://www.google.com/maps/place/Tekun.id+Sukabumi/data=!4m7!3m6!1s0x2e68496e201c4461:0x6807920472c07dcb!8m2!3d-6.9202609!4d106.9309856!16s%2Fg%2F11rf9_ytkc!19sChIJYUQcIG5JaC4Ry33AcgSSB2g?authuser=0&hl=id&rclk=1",
+        "total_reviews": 435
+    },
+    {
+        "name": "Soekabums Coffee",
+        "address": "Jl. Bhayangkara No.76A",
+        "rating": "4,9",
+        "latitude": -6.9150433,
+        "longitude": 106.9198664,
+        "link": "https://www.google.com/maps/place/Soekabums+Coffee/data=!4m7!3m6!1s0x2e6849d57b04d413:0x81d89c50b9810631!8m2!3d-6.9150433!4d106.9198664!16s%2Fg%2F11vc0sbvsr!19sChIJE9QEe9VJaC4RMQaBuVCc2IE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 13
+    },
+    {
+        "name": "Kopi Kamana - Sriwidari",
+        "address": "Jl. Sriwidari",
+        "rating": "4,7",
+        "latitude": -6.9173245,
+        "longitude": 106.9258326,
+        "link": "https://www.google.com/maps/place/Kopi+Kamana+-+Sriwidari/data=!4m7!3m6!1s0x2e6849db58f6ea9b:0x9808978ab92e2255!8m2!3d-6.9173245!4d106.9258326!16s%2Fg%2F11rrr9pjn_!19sChIJm-r2WNtJaC4RVSIuuYqXCJg?authuser=0&hl=id&rclk=1",
+        "total_reviews": 188
+    },
+    {
+        "name": "Kopi Kamana - Lettu Bakri",
+        "address": "Jl. Lettu Bakri No.8",
+        "rating": "4,7",
+        "latitude": -6.9220441,
+        "longitude": 106.9221338,
+        "link": "https://www.google.com/maps/place/Kopi+Kamana+-+Lettu+Bakri/data=!4m7!3m6!1s0x2e6849ea7527ed5f:0xc0eac1d338a380db!8m2!3d-6.9220441!4d106.9221338!16s%2Fg%2F11hdy7j9lf!19sChIJX-0ndepJaC4R24CjONPB6sA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 240
+    },
+    {
+        "name": "Co-Feed Coffee",
+        "address": "Jl. Dewi Sartika No.39",
+        "rating": "4,9",
+        "latitude": -6.9174808,
+        "longitude": 106.932235,
+        "link": "https://www.google.com/maps/place/Co-Feed+Coffee/data=!4m7!3m6!1s0x2e684945087f2f57:0x81aff099122d835b!8m2!3d-6.9174808!4d106.932235!16s%2Fg%2F11rjv1lc1_!19sChIJVy9_CEVJaC4RW4MtEpnwr4E?authuser=0&hl=id&rclk=1",
+        "total_reviews": 39
+    },
+    {
+        "name": "Kopitiam Sukabumi",
+        "address": "Jalan Surya Kencana, Selabatu, Cikole, Jl. Surya Kencana No.50",
+        "rating": "4,4",
+        "latitude": -6.9167923,
+        "longitude": 106.9310169,
+        "link": "https://www.google.com/maps/place/Kopitiam+Sukabumi/data=!4m7!3m6!1s0x2e6848341a203c7b:0xc4b3d488bcb4cc35!8m2!3d-6.9167923!4d106.9310169!16s%2Fg%2F11c5x35tr_!19sChIJezwgGjRIaC4RNcy0vIjUs8Q?authuser=0&hl=id&rclk=1",
+        "total_reviews": 336
+    },
+    {
+        "name": "Nama Coffee",
+        "address": "Jl. RH. Didi Sukardi No.37",
+        "rating": "4,6",
+        "latitude": -6.9341349,
+        "longitude": 106.932222,
+        "link": "https://www.google.com/maps/place/Nama+Coffee/data=!4m7!3m6!1s0x2e6849f69256371f:0xe1d6e8bae52d7ead!8m2!3d-6.9341349!4d106.932222!16s%2Fg%2F11j3rdk7x9!19sChIJHzdWkvZJaC4RrX4t5bro1uE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 550
+    },
+    {
+        "name": "Point Cafe Raden Samsudin",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,8",
+        "latitude": -6.9148532,
+        "longitude": 106.9357845,
+        "link": "https://www.google.com/maps/place/Point+Cafe+Raden+Samsudin/data=!4m7!3m6!1s0x2e68498c6dbc9fc3:0xc7fea6d4ba7873df!8m2!3d-6.9148532!4d106.9357845!16s%2Fg%2F11fj98rzy9!19sChIJw5-8bYxJaC4R33N4utSm_sc?authuser=0&hl=id&rclk=1",
+        "total_reviews": 112
+    },
+    {
+        "name": "Kopitiam Zakse",
+        "address": "Jl. Zaenal Zakse No.9B",
+        "rating": "4,6",
+        "latitude": -6.9223259,
+        "longitude": 106.93087,
+        "link": "https://www.google.com/maps/place/Kopitiam+Zakse/data=!4m7!3m6!1s0x2e684837591e47eb:0x349d874c617e6905!8m2!3d-6.9223259!4d106.93087!16s%2Fg%2F11bzyqwgvb!19sChIJ60ceWTdIaC4RBWl-YUyHnTQ?authuser=0&hl=id&rclk=1",
+        "total_reviews": 154
+    },
+    {
+        "name": "Kedai Kopi Nusantara Sukabumi",
+        "address": "Jl. Cicantayan",
+        "rating": "4,7",
+        "latitude": -6.9072209,
+        "longitude": 106.8737166,
+        "link": "https://www.google.com/maps/place/Kedai+Kopi+Nusantara+Sukabumi/data=!4m7!3m6!1s0x2e683651085e2bef:0x718208dd0e95b80b!8m2!3d-6.9072209!4d106.8737166!16s%2Fg%2F11f_p2qspg!19sChIJ7yteCFE2aC4RC7iVDt0IgnE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 51
+    },
+    {
+        "name": "Kedai Coffe KOPDUDE",
+        "address": "Jl. Pajajaran 1 No.36",
+        "rating": "4,7",
+        "latitude": -6.914945,
+        "longitude": 106.89828,
+        "link": "https://www.google.com/maps/place/Kedai+Coffe+KOPDUDE/data=!4m7!3m6!1s0x2e6837e222a6d5f1:0x3402aa653fbc4b!8m2!3d-6.914945!4d106.89828!16s%2Fg%2F11rwx2rmsk!19sChIJ8dWmIuI3aC4RS7w_ZaoCNAA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 10
+    },
+    {
+        "name": "Point Coffee Jalur Sukabumi",
+        "address": "Jl. RAYA LINGKAR SLEATAN, JALUR ) SINDANG SARI",
+        "rating": "4,6",
+        "latitude": -6.9479707,
+        "longitude": 106.9161151,
+        "link": "https://www.google.com/maps/place/Point+Coffee+Jalur+Sukabumi/data=!4m7!3m6!1s0x2e684993506316a5:0xd6d8ef289aea6a94!8m2!3d-6.9479707!4d106.9161151!16s%2Fg%2F11fpkwz688!19sChIJpRZjUJNJaC4RlGrqmijv2NY?authuser=0&hl=id&rclk=1",
+        "total_reviews": 27
+    },
+    {
+        "name": "Seecul Signature Kaum",
+        "address": "Jl. Masjid No.11",
+        "rating": "4,7",
+        "latitude": -6.9200698,
+        "longitude": 106.9253477,
+        "link": "https://www.google.com/maps/place/Seecul+Signature+Kaum/data=!4m7!3m6!1s0x2e6849a11da91383:0x77ff921188ac69eb!8m2!3d-6.9200698!4d106.9253477!16s%2Fg%2F11nykx29cf!19sChIJgxOpHaFJaC4R62msiBGS_3c?authuser=0&hl=id&rclk=1",
+        "total_reviews": 57
+    },
+    {
+        "name": "Teras Kopi",
+        "address": "Alamat tidak ditemukan",
+        "rating": "5,0",
+        "latitude": -6.9251804,
+        "longitude": 106.9238595,
+        "link": "https://www.google.com/maps/place/Teras+Kopi/data=!4m7!3m6!1s0x2e68492ac016987f:0x4006f7d2126a9d6f!8m2!3d-6.9251804!4d106.9238595!16s%2Fg%2F11fl5q0mh6!19sChIJf5gWwCpJaC4Rb51qEtL3BkA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 51
+    },
+    {
+        "name": "Mokopi Jalur",
+        "address": "Jl. Tangkil - Agrabinta",
+        "rating": "4,1",
+        "latitude": -6.9338892,
+        "longitude": 106.9035913,
+        "link": "https://www.google.com/maps/place/Mokopi+Jalur/data=!4m7!3m6!1s0x2e6837b075128f4f:0xddcde4b70d6bbc0f!8m2!3d-6.9338892!4d106.9035913!16s%2Fg%2F11tslq7pz4!19sChIJT48SdbA3aC4RD7xrDbfkzd0?authuser=0&hl=id&rclk=1",
+        "total_reviews": 214
+    },
+    {
+        "name": "Brewcave Brewtherhood",
+        "address": "Jl. R. E. Martadinata Gg. Ajid I No.11",
+        "rating": "4,8",
+        "latitude": -6.919507,
+        "longitude": 106.9296383,
+        "link": "https://www.google.com/maps/place/Brewcave+Brewtherhood/data=!4m7!3m6!1s0x2e684906225f6ce3:0x78d78c8e37d0d8a!8m2!3d-6.919507!4d106.9296383!16s%2Fg%2F11gfjd6sn5!19sChIJ42xfIgZJaC4Rig1948h4jQc?authuser=0&hl=id&rclk=1",
+        "total_reviews": 100
+    },
+    {
+        "name": "Sulanjana coffee & Eatery",
+        "address": "4W4Q+39H, Jl. Selabintana",
+        "rating": "4,8",
+        "latitude": -6.8943366,
+        "longitude": 106.9382412,
+        "link": "https://www.google.com/maps/place/Sulanjana+coffee+%26+Eatery/data=!4m7!3m6!1s0x2e68490005edab03:0xe039e4cbe5aef4e6!8m2!3d-6.8943366!4d106.9382412!16s%2Fg%2F11lcjfyz5d!19sChIJA6vtBQBJaC4R5vSu5cvkOeA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 22
+    },
+    {
+        "name": "HERBIE Coffee",
+        "address": "Jl. Pajajaran 1 RW13 blok AC9 No.RT.42",
+        "rating": "5,0",
+        "latitude": -6.9199285,
+        "longitude": 106.8982785,
+        "link": "https://www.google.com/maps/place/HERBIE+Coffee/data=!4m7!3m6!1s0x2e683786d7c5d17d:0xc86248525c81307e!8m2!3d-6.9199285!4d106.8982785!16s%2Fg%2F11mqwmgcfy!19sChIJfdHF14Y3aC4RfjCBXFJIYsg?authuser=0&hl=id&rclk=1",
+        "total_reviews": 10
+    },
+    {
+        "name": "D'Green Resto and Coffee",
+        "address": "Jl. Selabintana No.54",
+        "rating": "4,5",
+        "latitude": -6.9073637,
+        "longitude": 106.9372068,
+        "link": "https://www.google.com/maps/place/D%27Green+Resto+and+Coffee/data=!4m7!3m6!1s0x2e6849b5e5e9edcf:0xe35fbd6ada039627!8m2!3d-6.9073637!4d106.9372068!16s%2Fg%2F11bw21bts8!19sChIJz-3p5bVJaC4RJ5YD2mq9X-M?authuser=0&hl=id&rclk=1",
+        "total_reviews": 1750
+    },
+    {
+        "name": "DISISICOFFEE",
+        "address": "Jl. Pajagalan No.19",
+        "rating": "4,7",
+        "latitude": -6.9251134,
+        "longitude": 106.9227412,
+        "link": "https://www.google.com/maps/place/DISISICOFFEE/data=!4m7!3m6!1s0x2e6849eff3e014c3:0x11e11b79c57646c4!8m2!3d-6.9251134!4d106.9227412!16s%2Fg%2F11vjmrx97p!19sChIJwxTg8-9JaC4RxEZ2xXkb4RE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 14
+    },
+    {
+        "name": "KOMIE",
+        "address": "Jl. Sriwidari No.34",
+        "rating": "4,6",
+        "latitude": -6.916097,
+        "longitude": 106.9267232,
+        "link": "https://www.google.com/maps/place/KOMIE/data=!4m7!3m6!1s0x2e6848324a063ead:0x12abf0f85733d51a!8m2!3d-6.916097!4d106.9267232!16s%2Fg%2F11fy933022!19sChIJrT4GSjJIaC4RGtUzV_jwqxI?authuser=0&hl=id&rclk=1",
+        "total_reviews": 35
+    },
+    {
+        "name": "Warga Holy",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,6",
+        "latitude": -6.9128191,
+        "longitude": 106.9331877,
+        "link": "https://www.google.com/maps/place/Warga+Holy/data=!4m7!3m6!1s0x2e68496d3655607f:0x62c1b79b0a982d96!8m2!3d-6.9128191!4d106.9331877!16s%2Fg%2F11tjm04y4d!19sChIJf2BVNm1JaC4Rli2YCpu3wWI?authuser=0&hl=id&rclk=1",
+        "total_reviews": 59
+    },
+    {
+        "name": "Kopi Kenangan - Ruko Graha Siliwangi Sukabumi",
+        "address": "Jl. Siliwangi",
+        "rating": "4,4",
+        "latitude": -6.9153648,
+        "longitude": 106.9359896,
+        "link": "https://www.google.com/maps/place/Kopi+Kenangan+-+Ruko+Graha+Siliwangi+Sukabumi/data=!4m7!3m6!1s0x2e6849f2fc031d6d:0x479d1776fb8bed89!8m2!3d-6.9153648!4d106.9359896!16s%2Fg%2F11j_82wszp!19sChIJbR0D_PJJaC4Rie2L-3YXnUc?authuser=0&hl=id&rclk=1",
+        "total_reviews": 56
+    },
+    {
+        "name": "Kedai Kopi Jarian",
+        "address": "Jl. Cipelang Leutik No.11-127",
+        "rating": "4,9",
+        "latitude": -6.9169472,
+        "longitude": 106.9294649,
+        "link": "https://www.google.com/maps/place/Kedai+Kopi+Jarian/data=!4m7!3m6!1s0x2e6849e5b6b9898d:0x81176234d53be1e5!8m2!3d-6.9169472!4d106.9294649!16s%2Fg%2F11g22_xftn!19sChIJjYm5tuVJaC4R5eE71TRiF4E?authuser=0&hl=id&rclk=1",
+        "total_reviews": 21
+    },
+    {
+        "name": "Kedai Kong Djie Coffee",
+        "address": "Jl. Cikole Dalam No.13",
+        "rating": "4,5",
+        "latitude": -6.9164429,
+        "longitude": 106.9327046,
+        "link": "https://www.google.com/maps/place/Kedai+Kong+Djie+Coffee/data=!4m7!3m6!1s0x2e6849e8e84d91df:0x74d8d9c63caf77db!8m2!3d-6.9164429!4d106.9327046!16s%2Fg%2F11jnvrz59z!19sChIJ35FN6OhJaC4R23evPMbZ2HQ?authuser=0&hl=id&rclk=1",
+        "total_reviews": 27
+    },
+    {
+        "name": "Weekly Coffee",
+        "address": "Jl. RH. Didi Sukardi No.168",
+        "rating": "4,4",
+        "latitude": -6.9329915,
+        "longitude": 106.9320438,
+        "link": "https://www.google.com/maps/place/Weekly+Coffee/data=!4m7!3m6!1s0x2e6849c568074167:0x65783666e47290e4!8m2!3d-6.9329915!4d106.9320438!16s%2Fg%2F11rx3dj85k!19sChIJZ0EHaMVJaC4R5JBy5GY2eGU?authuser=0&hl=id&rclk=1",
+        "total_reviews": 10
+    },
+    {
+        "name": "All Sunday Space",
+        "address": "Jl. Brawijaya No.7",
+        "rating": "4,7",
+        "latitude": -6.9185349,
+        "longitude": 106.919399,
+        "link": "https://www.google.com/maps/place/All+Sunday+Space/data=!4m7!3m6!1s0x2e6849f1d1176885:0x3f92392b4651b16e!8m2!3d-6.9185349!4d106.919399!16s%2Fg%2F11twhvch7n!19sChIJhWgX0fFJaC4RbrFRRis5kj8?authuser=0&hl=id&rclk=1",
+        "total_reviews": 38
+    },
+    {
+        "name": "Cafe Kappe",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,4",
+        "latitude": -6.916497,
+        "longitude": 106.9317668,
+        "link": "https://www.google.com/maps/place/Cafe+Kappe/data=!4m7!3m6!1s0x2e6848343bea3bdf:0x546de04d1089fb19!8m2!3d-6.916497!4d106.9317668!16s%2Fg%2F11ckr9p0q2!19sChIJ3zvqOzRIaC4RGfuJEE3gbVQ?authuser=0&hl=id&rclk=1",
+        "total_reviews": 121
+    },
+    {
+        "name": "Kopi Janji Jiwa Sukabumi",
+        "address": "Jl. Bhayangkara No.38",
+        "rating": "4,6",
+        "latitude": -6.916138,
+        "longitude": 106.9174114,
+        "link": "https://www.google.com/maps/place/Kopi+Janji+Jiwa+Sukabumi/data=!4m7!3m6!1s0x2e6849efd9c58d07:0x6bb97760de4b4c16!8m2!3d-6.916138!4d106.9174114!16s%2Fg%2F11j435w3wf!19sChIJB43F2e9JaC4RFkxL3mB3uWs?authuser=0&hl=id&rclk=1",
+        "total_reviews": 148
+    },
+    {
+        "name": "Red Brick Cafe",
+        "address": "Jl. Pelabuhan II No.271",
+        "rating": "4,6",
+        "latitude": -6.9400865,
+        "longitude": 106.9235813,
+        "link": "https://www.google.com/maps/place/Red+Brick+Cafe/data=!4m7!3m6!1s0x2e68481a779b386b:0x536ff43d2a289e6e!8m2!3d-6.9400865!4d106.9235813!16s%2Fg%2F11cp77yzq8!19sChIJazibdxpIaC4Rbp4oKj30b1M?authuser=0&hl=id&rclk=1",
+        "total_reviews": 1727
+    },
+    {
+        "name": "Cafe Abadi COFFEE & BOBA DEGUNG",
+        "address": "3WH8+X8W, Jl. Benteng",
+        "rating": "5,0",
+        "latitude": -6.9200004,
+        "longitude": 106.9158251,
+        "link": "https://www.google.com/maps/place/Cafe+Abadi+COFFEE+%26+BOBA+DEGUNG/data=!4m7!3m6!1s0x2e68491bc6010801:0xfcf21b8687a601a7!8m2!3d-6.9200004!4d106.9158251!16s%2Fg%2F11rknz5543!19sChIJAQgBxhtJaC4RpwGmh4Yb8vw?authuser=0&hl=id&rclk=1",
+        "total_reviews": 4
+    },
+    {
+        "name": "Kaisha palace Food and coffee",
+        "address": "Jl. Siliwangi No.80",
+        "rating": "4,5",
+        "latitude": -6.917929,
+        "longitude": 106.9363208,
+        "link": "https://www.google.com/maps/place/Kaisha+palace+Food+and+coffee/data=!4m7!3m6!1s0x2e684998c3b208a7:0xde79b254eac2e0fe!8m2!3d-6.917929!4d106.9363208!16s%2Fg%2F11p55rk93j!19sChIJpwiyw5hJaC4R_uDC6lSyed4?authuser=0&hl=id&rclk=1",
+        "total_reviews": 145
+    },
+    {
+        "name": "Angkringan Kopi Joss Sukabumi",
+        "address": "Jl. Benteng Kidul No.22-19",
+        "rating": "4,7",
+        "latitude": -6.9288648,
+        "longitude": 106.9159748,
+        "link": "https://www.google.com/maps/place/Angkringan+Kopi+Joss+Sukabumi/data=!4m7!3m6!1s0x2e6849d3febaceb3:0xc0e1c45f2ef768b2!8m2!3d-6.9288648!4d106.9159748!16s%2Fg%2F11rghpkw5v!19sChIJs866_tNJaC4Rsmj3Ll_E4cA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 101
+    },
+    {
+        "name": "Kopi Dermawan",
+        "address": "Jl. Surya Kencana No.52",
+        "rating": "4,3",
+        "latitude": -6.9166462,
+        "longitude": 106.9313158,
+        "link": "https://www.google.com/maps/place/Kopi+Dermawan/data=!4m7!3m6!1s0x2e684912f0c2a6fd:0x88ab2e8dcb787bcb!8m2!3d-6.9166462!4d106.9313158!16s%2Fg%2F11j2xg8tqp!19sChIJ_abC8BJJaC4Ry3t4y40uq4g?authuser=0&hl=id&rclk=1",
+        "total_reviews": 106
+    },
+    {
+        "name": "Mr.yos",
+        "address": "Jl. Gudang No.1",
+        "rating": "5,0",
+        "latitude": -6.9226835,
+        "longitude": 106.9339108,
+        "link": "https://www.google.com/maps/place/Mr.yos/data=!4m7!3m6!1s0x2e6849db5af09131:0x959eaa69fb4ed5b9!8m2!3d-6.9226835!4d106.9339108!16s%2Fg%2F11lrplc4jv!19sChIJMZHwWttJaC4RudVO-2mqnpU?authuser=0&hl=id&rclk=1",
+        "total_reviews": 2
+    },
+    {
+        "name": "Praline Sukabumi",
+        "address": "Jl. Surya Kencana No.82",
+        "rating": "4,5",
+        "latitude": -6.9138936,
+        "longitude": 106.9336072,
+        "link": "https://www.google.com/maps/place/Praline+Sukabumi/data=!4m7!3m6!1s0x2e68483567c113a7:0xedd710740d6b681f!8m2!3d-6.9138936!4d106.9336072!16s%2Fg%2F11clzhb15d!19sChIJpxPBZzVIaC4RH2hrDXQQ1-0?authuser=0&hl=id&rclk=1",
+        "total_reviews": 396
+    },
+    {
+        "name": "Discovery Rooftop Cafe",
+        "address": "Fresh Hotel, Jl. Bhayangkara No.127 Building, 5th Floor",
+        "rating": "4,3",
+        "latitude": -6.9102577,
+        "longitude": 106.9213868,
+        "link": "https://www.google.com/maps/place/Discovery+Rooftop+Cafe/data=!4m7!3m6!1s0x2e6849d28d07c7c1:0x18680b823f102eee!8m2!3d-6.9102577!4d106.9213868!16s%2Fg%2F11c2l9bpqx!19sChIJwccHjdJJaC4R7i4QP4ILaBg?authuser=0&hl=id&rclk=1",
+        "total_reviews": 47
+    },
+    {
+        "name": "Kedai Saribhumi",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,5",
+        "latitude": -6.9173268,
+        "longitude": 106.9313392,
+        "link": "https://www.google.com/maps/place/Kedai+Saribhumi/data=!4m7!3m6!1s0x2e684836a041be25:0x8c6adc51bad66de5!8m2!3d-6.9173268!4d106.9313392!16s%2Fg%2F11dxj0pj8l!19sChIJJb5BoDZIaC4R5W3WulHcaow?authuser=0&hl=id&rclk=1",
+        "total_reviews": 42
+    },
+    {
+        "name": "House Of Oase 99",
+        "address": "Jl. Amubawa Sasana",
+        "rating": "4,8",
+        "latitude": -6.9227634,
+        "longitude": 106.9440707,
+        "link": "https://www.google.com/maps/place/House+Of+Oase+99/data=!4m7!3m6!1s0x2e6849ebb940bf05:0x28f3b53d0933be15!8m2!3d-6.9227634!4d106.9440707!16s%2Fg%2F11jnl7chlk!19sChIJBb9AuetJaC4RFb4zCT218yg?authuser=0&hl=id&rclk=1",
+        "total_reviews": 27
+    },
+    {
+        "name": "Kopi Merdeka Sukabumi",
+        "address": "Jl. Veteran II No.2",
+        "rating": "5,0",
+        "latitude": -6.918832,
+        "longitude": 106.9264121,
+        "link": "https://www.google.com/maps/place/Kopi+Merdeka+Sukabumi/data=!4m7!3m6!1s0x2e684917b56f5e67:0x619d8900181245a6!8m2!3d-6.918832!4d106.9264121!16s%2Fg%2F11spngd27t!19sChIJZ15vtRdJaC4RpkUSGACJnWE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 15
+    },
+    {
+        "name": "Kedai Coffee Saayana",
+        "address": "Jl. Cikiray-Cijambu No.40",
+        "rating": "4,1",
+        "latitude": -6.9102606,
+        "longitude": 106.8975446,
+        "link": "https://www.google.com/maps/place/Kedai+Coffee+Saayana/data=!4m7!3m6!1s0x2e6837897c530127:0x79b3ba56c4759719!8m2!3d-6.9102606!4d106.8975446!16s%2Fg%2F11rc8qn6k1!19sChIJJwFTfIk3aC4RGZd1xFa6s3k?authuser=0&hl=id&rclk=1",
+        "total_reviews": 14
+    },
+    {
+        "name": "Coffee Cienta Sukabumi",
+        "address": "3WHC+MRM Soedirman Street Food Sukabumi, Jl. Sudirman",
+        "rating": "5,0",
+        "latitude": -6.9207807,
+        "longitude": 106.922053,
+        "link": "https://www.google.com/maps/place/Coffee+Cienta+Sukabumi/data=!4m7!3m6!1s0x2e68491cf0cc47db:0xdcf243872fde5c1c!8m2!3d-6.9207807!4d106.922053!16s%2Fg%2F11n718n6c3!19sChIJ20fM8BxJaC4RHFzeL4dD8tw?authuser=0&hl=id&rclk=1",
+        "total_reviews": 1
+    },
+    {
+        "name": "HAUS BENTENG SUKABUMI",
+        "address": "Jl. Arif Rahman Hakim No.76-72",
+        "rating": "4,4",
+        "latitude": -6.9215496,
+        "longitude": 106.9226938,
+        "link": "https://www.google.com/maps/place/HAUS+BENTENG+SUKABUMI/data=!4m7!3m6!1s0x2e684921df3f2ae9:0x7fcaf09b266b02fb!8m2!3d-6.9215496!4d106.9226938!16s%2Fg%2F11qg43wmb8!19sChIJ6So_3yFJaC4R-wJrJpvwyn8?authuser=0&hl=id&rclk=1",
+        "total_reviews": 186
+    },
+    {
+        "name": "Ground 68 Coffe & Eatery",
+        "address": "Jl. Siliwangi No.68",
+        "rating": "4,5",
+        "latitude": -6.9186835,
+        "longitude": 106.9366596,
+        "link": "https://www.google.com/maps/place/Ground+68+Coffe+%26+Eatery/data=!4m7!3m6!1s0x2e6849d7140a60f3:0x725bc09be9e90739!8m2!3d-6.9186835!4d106.9366596!16s%2Fg%2F11h5vmwfzt!19sChIJ82AKFNdJaC4ROQfp6ZvAW3I?authuser=0&hl=id&rclk=1",
+        "total_reviews": 63
+    },
+    {
+        "name": "Crowded coffee",
+        "address": "Jl. Sudirman",
+        "rating": "4,9",
+        "latitude": -6.920393,
+        "longitude": 106.9211332,
+        "link": "https://www.google.com/maps/place/Crowded+coffee/data=!4m7!3m6!1s0x2e68498bdf143bb5:0x219ec8f9653394df!8m2!3d-6.920393!4d106.9211332!16s%2Fg%2F11jv73nl3c!19sChIJtTsU34tJaC4R35QzZfnIniE?authuser=0&hl=id&rclk=1",
+        "total_reviews": 15
     },
     {
         "name": "Cafe NewPelangi",
@@ -243,238 +765,13 @@
         "total_reviews": 10
     },
     {
-        "name": "Kopi Nako Sukabumi",
-        "address": "Jl. Mayor Mahmud",
-        "rating": "4,8",
-        "latitude": -6.9050142,
-        "longitude": 106.9415424,
-        "link": "https://www.google.com/maps/place/Kopi+Nako+Sukabumi/data=!4m7!3m6!1s0x2e6849ab86d58d3b:0x4a5ce73411d9faf!8m2!3d-6.9050142!4d106.9415424!16s%2Fg%2F11l1jqzj7f!19sChIJO43VhqtJaC4Rr58dQXPOpQQ?authuser=0&hl=id&rclk=1",
-        "total_reviews": 2286
-    },
-    {
-        "name": "Vanjaloe Coffe Shop",
-        "address": "Jl. Selabintana No.Km, RW.4",
-        "rating": "4,9",
-        "latitude": -6.8953314,
-        "longitude": 106.9386029,
-        "link": "https://www.google.com/maps/place/Vanjaloe+Coffe+Shop/data=!4m7!3m6!1s0x2e68491a42918d91:0x37f4a66fb6e6b8f!8m2!3d-6.8953314!4d106.9386029!16s%2Fg%2F11q_31f_d_!19sChIJkY2RQhpJaC4Rj2tu-2ZKfwM?authuser=0&hl=id&rclk=1",
-        "total_reviews": 21
-    },
-    {
-        "name": "Dago House Food and Coffee Bar",
-        "address": "Jl. Ir. H. Juanda No.5",
+        "name": "Cafe Nyoempoet",
+        "address": "Girang, Jl. Rambai-Cipanengah Jl. Lkr. Sel.",
         "rating": "4,5",
-        "latitude": -6.919988,
-        "longitude": 106.9310191,
-        "link": "https://www.google.com/maps/place/Dago+House+Food+and+Coffee+Bar/data=!4m7!3m6!1s0x2e68483727328813:0x60849e2174dde142!8m2!3d-6.919988!4d106.9310191!16s%2Fg%2F11gcn1kwc5!19sChIJE4gyJzdIaC4RQuHddCGehGA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 839
-    },
-    {
-        "name": "Brewcave Brewtherhood",
-        "address": "Jl. R. E. Martadinata Gg. Ajid I No.11",
-        "rating": "4,8",
-        "latitude": -6.919507,
-        "longitude": 106.9296383,
-        "link": "https://www.google.com/maps/place/Brewcave+Brewtherhood/data=!4m7!3m6!1s0x2e684906225f6ce3:0x78d78c8e37d0d8a!8m2!3d-6.919507!4d106.9296383!16s%2Fg%2F11gfjd6sn5!19sChIJ42xfIgZJaC4Rig1948h4jQc?authuser=0&hl=id&rclk=1",
-        "total_reviews": 100
-    },
-    {
-        "name": "Tempat Kopi Santay CSR_WRi #maSih_Ada",
-        "address": "Alamat tidak ditemukan",
-        "rating": "5,0",
-        "latitude": -6.9082063,
-        "longitude": 106.9601068,
-        "link": "https://www.google.com/maps/place/Tempat+Kopi+Santay+CSR_WRi+%23maSih_Ada/data=!4m7!3m6!1s0x2e6849273723a7fb:0x6f238d3ffcbb94e5!8m2!3d-6.9082063!4d106.9601068!16s%2Fg%2F11r0lmk2bc!19sChIJ-6cjNydJaC4R5ZS7_D-NI28?authuser=0&hl=id&rclk=1",
-        "total_reviews": 21
-    },
-    {
-        "name": "Angkringan Kopi Joss Sukabumi",
-        "address": "Jl. Benteng Kidul No.22-19",
-        "rating": "4,7",
-        "latitude": -6.9288648,
-        "longitude": 106.9159748,
-        "link": "https://www.google.com/maps/place/Angkringan+Kopi+Joss+Sukabumi/data=!4m7!3m6!1s0x2e6849d3febaceb3:0xc0e1c45f2ef768b2!8m2!3d-6.9288648!4d106.9159748!16s%2Fg%2F11rghpkw5v!19sChIJs866_tNJaC4Rsmj3Ll_E4cA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 101
-    },
-    {
-        "name": "Haku Coffee",
-        "address": "Jl. Bhayangkara No.209",
-        "rating": "5,0",
-        "latitude": -6.91368,
-        "longitude": 106.9315711,
-        "link": "https://www.google.com/maps/place/Haku+Coffee/data=!4m7!3m6!1s0x2e684912dcaabe83:0x56c7f0dc91bd3c8d!8m2!3d-6.91368!4d106.9315711!16s%2Fg%2F11kqryr517!19sChIJg76q3BJJaC4RjTy9kdzwx1Y?authuser=0&hl=id&rclk=1",
-        "total_reviews": 5
-    },
-    {
-        "name": "Analog Koffiehuis",
-        "address": "Jl. Sriwijaya No.23",
-        "rating": "4,7",
-        "latitude": -6.9175853,
-        "longitude": 106.9182901,
-        "link": "https://www.google.com/maps/place/Analog+Koffiehuis/data=!4m7!3m6!1s0x2e68482c07125409:0x7256df0b4106d83d!8m2!3d-6.9175853!4d106.9182901!16s%2Fg%2F11cm047mh4!19sChIJCVQSByxIaC4RPdgGQQvfVnI?authuser=0&hl=id&rclk=1",
-        "total_reviews": 282
-    },
-    {
-        "name": "Warkost Bahagia",
-        "address": "Jl. Zaenal Zakse No.25",
-        "rating": "4,2",
-        "latitude": -6.9213605,
-        "longitude": 106.931032,
-        "link": "https://www.google.com/maps/place/Warkost+Bahagia/data=!4m7!3m6!1s0x2e6849007a57e4db:0x8801b3e06e3ae8b7!8m2!3d-6.9213605!4d106.931032!16s%2Fg%2F11x20g8zlb!19sChIJ2-RXegBJaC4Rt-g6buCzAYg?authuser=0&hl=id&rclk=1",
-        "total_reviews": 37
-    },
-    {
-        "name": "Somewhere Coffee",
-        "address": "Jl. Ciaul Jl. Selabintana",
-        "rating": "4,6",
-        "latitude": -6.8939638,
-        "longitude": 106.94169,
-        "link": "https://www.google.com/maps/place/Somewhere+Coffee/data=!4m7!3m6!1s0x2e6849b19d34cd4d:0x8e4ca460a49896c9!8m2!3d-6.8939638!4d106.94169!16s%2Fg%2F11lnvn2llc!19sChIJTc00nbFJaC4RyZaYpGCkTI4?authuser=0&hl=id&rclk=1",
-        "total_reviews": 176
-    },
-    {
-        "name": "Seecul Coffee Bar",
-        "address": "Jl. Syamsudin. SH No.1",
-        "rating": "4,7",
-        "latitude": -6.9175535,
-        "longitude": 106.9299471,
-        "link": "https://www.google.com/maps/place/Seecul+Coffee+Bar/data=!4m7!3m6!1s0x2e684836aacef687:0xbced4485369cfe0a!8m2!3d-6.9175535!4d106.9299471!16s%2Fg%2F11b6_mnntl!19sChIJh_bOqjZIaC4RCv6cNoVE7bw?authuser=0&hl=id&rclk=1",
-        "total_reviews": 189
-    },
-    {
-        "name": "Coffee Chaproek",
-        "address": "Jl. A. Yani No.23",
-        "rating": "4,6",
-        "latitude": -6.921457,
-        "longitude": 106.9234728,
-        "link": "https://www.google.com/maps/place/Coffee+Chaproek/data=!4m7!3m6!1s0x2e6848308435477f:0xd1bdff01e0deb41d!8m2!3d-6.921457!4d106.9234728!16s%2Fg%2F11f0g9btt_!19sChIJf0c1hDBIaC4RHbTe4AH_vdE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 196
-    },
-    {
-        "name": "Warkop Sari Rasa M.Dahlan",
-        "address": "Alamat tidak ditemukan",
-        "rating": "4,8",
-        "latitude": -6.9236843,
-        "longitude": 106.9216607,
-        "link": "https://www.google.com/maps/place/Warkop+Sari+Rasa+M.Dahlan/data=!4m7!3m6!1s0x2e68482571aabd25:0x729f9ba2c9617b23!8m2!3d-6.9236843!4d106.9216607!16s%2Fg%2F11fy4hnngg!19sChIJJb2qcSVIaC4RI3thyaKbn3I?authuser=0&hl=id&rclk=1",
-        "total_reviews": 33
-    },
-    {
-        "name": "Fore Coffee - Citimall Sukabumi",
-        "address": "Citimall Sukabumi, Jl. A. Yani No.121-127 Ground Floor Unit G-0115",
-        "rating": "4,7",
-        "latitude": -6.922197,
-        "longitude": 106.9287538,
-        "link": "https://www.google.com/maps/place/Fore+Coffee+-+Citimall+Sukabumi/data=!4m7!3m6!1s0x2e684991dae18313:0xa141641b64ed67f2!8m2!3d-6.922197!4d106.9287538!16s%2Fg%2F11t0pbk97b!19sChIJE4Ph2pFJaC4R8mftZBtkQaE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 134
-    },
-    {
-        "name": "Tji Colle Eatery And Coffe Shop",
-        "address": "Jl. Surya Kencana No.38",
-        "rating": "4,5",
-        "latitude": -6.9169895,
-        "longitude": 106.9305169,
-        "link": "https://www.google.com/maps/place/Tji+Colle+Eatery+And+Coffe+Shop/data=!4m7!3m6!1s0x2e6848340437052f:0x9ff0140cb55e1a6d!8m2!3d-6.9169895!4d106.9305169!16s%2Fg%2F11c51_ywby!19sChIJLwU3BDRIaC4RbRpetQwU8J8?authuser=0&hl=id&rclk=1",
-        "total_reviews": 153
-    },
-    {
-        "name": "Kopi Susu Singapore (Tahu Kepo)",
-        "address": "Jl. Gudang No.37",
-        "rating": "5,0",
-        "latitude": -6.9210385,
-        "longitude": 106.9340735,
-        "link": "https://www.google.com/maps/place/Kopi+Susu+Singapore+%28Tahu+Kepo%29/data=!4m7!3m6!1s0x2e68491389b506bf:0x9f9ca1bb70b398f4!8m2!3d-6.9210385!4d106.9340735!16s%2Fg%2F11x64xgfpz!19sChIJvwa1iRNJaC4R9JizcLuhnJ8?authuser=0&hl=id&rclk=1",
-        "total_reviews": 4
-    },
-    {
-        "name": "Kukira Coffee",
-        "address": "Jl. Bhayangkara No.6",
-        "rating": "4,6",
-        "latitude": -6.9187496,
-        "longitude": 106.9163431,
-        "link": "https://www.google.com/maps/place/Kukira+Coffee/data=!4m7!3m6!1s0x2e684986b7ce38ab:0x6aa7c2222244f3a2!8m2!3d-6.9187496!4d106.9163431!16s%2Fg%2F11s7wdm2h7!19sChIJqzjOt4ZJaC4RovNEIiLCp2o?authuser=0&hl=id&rclk=1",
-        "total_reviews": 27
-    },
-    {
-        "name": "Starbucks Siliwangi Sukabumi",
-        "address": "Jl. Siliwangi No.76",
-        "rating": "4,7",
-        "latitude": -6.9182585,
-        "longitude": 106.9363307,
-        "link": "https://www.google.com/maps/place/Starbucks+Siliwangi+Sukabumi/data=!4m7!3m6!1s0x2e6849a100887d59:0x794fe2e192912370!8m2!3d-6.9182585!4d106.9363307!16s%2Fg%2F11rqsmf77h!19sChIJWX2IAKFJaC4RcCORkuHiT3k?authuser=0&hl=id&rclk=1",
-        "total_reviews": 448
-    },
-    {
-        "name": "Coffee.Sejiwa",
-        "address": "Jl. Cikiray Kidul No.146",
-        "rating": "4,4",
-        "latitude": -6.9063086,
-        "longitude": 106.8961914,
-        "link": "https://www.google.com/maps/place/Coffee.Sejiwa/data=!4m7!3m6!1s0x2e6837beaecfd38f:0x7c20c1acaf36b66d!8m2!3d-6.9063086!4d106.8961914!16s%2Fg%2F11pvgrkgz9!19sChIJj9PPrr43aC4RbbY2r6zBIHw?authuser=0&hl=id&rclk=1",
-        "total_reviews": 194
-    },
-    {
-        "name": "HAUS BENTENG SUKABUMI",
-        "address": "Jl. Arif Rahman Hakim No.76-72",
-        "rating": "4,4",
-        "latitude": -6.9215496,
-        "longitude": 106.9226938,
-        "link": "https://www.google.com/maps/place/HAUS+BENTENG+SUKABUMI/data=!4m7!3m6!1s0x2e684921df3f2ae9:0x7fcaf09b266b02fb!8m2!3d-6.9215496!4d106.9226938!16s%2Fg%2F11qg43wmb8!19sChIJ6So_3yFJaC4R-wJrJpvwyn8?authuser=0&hl=id&rclk=1",
-        "total_reviews": 186
-    },
-    {
-        "name": "Soekabums Coffee",
-        "address": "Jl. Bhayangkara No.76A",
-        "rating": "4,9",
-        "latitude": -6.9150433,
-        "longitude": 106.9198664,
-        "link": "https://www.google.com/maps/place/Soekabums+Coffee/data=!4m7!3m6!1s0x2e6849d57b04d413:0x81d89c50b9810631!8m2!3d-6.9150433!4d106.9198664!16s%2Fg%2F11vc0sbvsr!19sChIJE9QEe9VJaC4RMQaBuVCc2IE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 13
-    },
-    {
-        "name": "stop in coffee",
-        "address": "Jl. Selabintana No.kec No.143",
-        "rating": "5,0",
-        "latitude": -6.8911603,
-        "longitude": 106.9391102,
-        "link": "https://www.google.com/maps/place/stop+in+coffee/data=!4m7!3m6!1s0x2e6849f96c9a81a9:0x5075ae0f2d762c9!8m2!3d-6.8911603!4d106.9391102!16s%2Fg%2F11gkz5scyz!19sChIJqYGabPlJaC4RyWLX8uBaBwU?authuser=0&hl=id&rclk=1",
-        "total_reviews": 10
-    },
-    {
-        "name": "Gourmet Coffeenery",
-        "address": "Jl. R. E. Martadinata No.31",
-        "rating": "4,6",
-        "latitude": -6.9204149,
-        "longitude": 106.930855,
-        "link": "https://www.google.com/maps/place/Gourmet+Coffeenery/data=!4m7!3m6!1s0x2e68495873ecbca3:0x241bd6a840a6d0c4!8m2!3d-6.9204149!4d106.930855!16s%2Fg%2F11f5qdgldk!19sChIJo7zsc1hJaC4RxNCmQKjWGyQ?authuser=0&hl=id&rclk=1",
-        "total_reviews": 937
-    },
-    {
-        "name": "Kedai Sriwidari 68",
-        "address": "Jl. Sriwidari No.70",
-        "rating": "4,7",
-        "latitude": -6.9140777,
-        "longitude": 106.9280802,
-        "link": "https://www.google.com/maps/place/Kedai+Sriwidari+68/data=!4m7!3m6!1s0x2e68483310ff8de3:0x30953f2875bc9717!8m2!3d-6.9140777!4d106.9280802!16s%2Fg%2F11f26x8qb0!19sChIJ443_EDNIaC4RF5e8dSg_lTA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 33
-    },
-    {
-        "name": "Viesta Coffee & Dining",
-        "address": "Jl. Siliwangi No.115",
-        "rating": "4,4",
-        "latitude": -6.9138142,
-        "longitude": 106.9351942,
-        "link": "https://www.google.com/maps/place/Viesta+Coffee+%26+Dining/data=!4m7!3m6!1s0x2e684835659e85e1:0xb6f793b14f2118e7!8m2!3d-6.9138142!4d106.9351942!16s%2Fg%2F11c3_1wtkx!19sChIJ4YWeZTVIaC4R5xghT7GT97Y?authuser=0&hl=id&rclk=1",
-        "total_reviews": 634
-    },
-    {
-        "name": "VW Coffee Sukabumi",
-        "address": "Jl. Sudirman No.31",
-        "rating": "5,0",
-        "latitude": -6.9192875,
-        "longitude": 106.9179308,
-        "link": "https://www.google.com/maps/place/VW+Coffee+Sukabumi/data=!4m7!3m6!1s0x2e6849871b44182f:0xe6a33a02a2be8287!8m2!3d-6.9192875!4d106.9179308!16s%2Fg%2F11j936j_5r!19sChIJLxhEG4dJaC4Rh4K-ogI6o-Y?authuser=0&hl=id&rclk=1",
-        "total_reviews": 2
+        "latitude": -6.9460941,
+        "longitude": 106.9133693,
+        "link": "https://www.google.com/maps/place/Cafe+Nyoempoet/data=!4m7!3m6!1s0x2e6848028625a493:0xc70edb8899e1f35d!8m2!3d-6.9460941!4d106.9133693!16s%2Fg%2F11csqjczv1!19sChIJk6QlhgJIaC4RXfPhmYjbDsc?authuser=0&hl=id&rclk=1",
+        "total_reviews": 655
     },
     {
         "name": "KUSBICK COFFEE",
@@ -486,6 +783,141 @@
         "total_reviews": 87
     },
     {
+        "name": "Tempat Kopi Santay CSR_WRi #maSih_Ada",
+        "address": "Alamat tidak ditemukan",
+        "rating": "5,0",
+        "latitude": -6.9082063,
+        "longitude": 106.9601068,
+        "link": "https://www.google.com/maps/place/Tempat+Kopi+Santay+CSR_WRi+%23maSih_Ada/data=!4m7!3m6!1s0x2e6849273723a7fb:0x6f238d3ffcbb94e5!8m2!3d-6.9082063!4d106.9601068!16s%2Fg%2F11r0lmk2bc!19sChIJ-6cjNydJaC4R5ZS7_D-NI28?authuser=0&hl=id&rclk=1",
+        "total_reviews": 21
+    },
+    {
+        "name": "TAWACOFFEE SUKABUMI",
+        "address": "Jl. Kenari No.18-14",
+        "rating": "5,0",
+        "latitude": -6.9150631,
+        "longitude": 106.9298832,
+        "link": "https://www.google.com/maps/place/TAWACOFFEE+SUKABUMI/data=!4m7!3m6!1s0x2e684928dd4e9ddb:0xe6a8db9070947bc2!8m2!3d-6.9150631!4d106.9298832!16s%2Fg%2F11l5nc1kld!19sChIJ251O3ShJaC4RwnuUcJDbqOY?authuser=0&hl=id&rclk=1",
+        "total_reviews": 2
+    },
+    {
+        "name": "Haku Coffee",
+        "address": "Jl. Bhayangkara No.209",
+        "rating": "5,0",
+        "latitude": -6.91368,
+        "longitude": 106.9315711,
+        "link": "https://www.google.com/maps/place/Haku+Coffee/data=!4m7!3m6!1s0x2e684912dcaabe83:0x56c7f0dc91bd3c8d!8m2!3d-6.91368!4d106.9315711!16s%2Fg%2F11kqryr517!19sChIJg76q3BJJaC4RjTy9kdzwx1Y?authuser=0&hl=id&rclk=1",
+        "total_reviews": 5
+    },
+    {
+        "name": "Warkost Bahagia",
+        "address": "Jl. Zaenal Zakse No.25",
+        "rating": "4,2",
+        "latitude": -6.9213605,
+        "longitude": 106.931032,
+        "link": "https://www.google.com/maps/place/Warkost+Bahagia/data=!4m7!3m6!1s0x2e6849007a57e4db:0x8801b3e06e3ae8b7!8m2!3d-6.9213605!4d106.931032!16s%2Fg%2F11x20g8zlb!19sChIJ2-RXegBJaC4Rt-g6buCzAYg?authuser=0&hl=id&rclk=1",
+        "total_reviews": 38
+    },
+    {
+        "name": "Blok A Coffee",
+        "address": "Jl. Siliwangi No.48",
+        "rating": "5,0",
+        "latitude": -6.9202268,
+        "longitude": 106.9358747,
+        "link": "https://www.google.com/maps/place/Blok+A+Coffee/data=!4m7!3m6!1s0x2e684837d7dbeaed:0xba6171c215e0a16c!8m2!3d-6.9202268!4d106.9358747!16s%2Fg%2F11d_z7z2hn!19sChIJ7erb1zdIaC4RbKHgFcJxYbo?authuser=0&hl=id&rclk=1",
+        "total_reviews": 1
+    },
+    {
+        "name": "VW Coffee Sukabumi",
+        "address": "Jl. Sudirman No.31",
+        "rating": "5,0",
+        "latitude": -6.9192875,
+        "longitude": 106.9179308,
+        "link": "https://www.google.com/maps/place/VW+Coffee+Sukabumi/data=!4m7!3m6!1s0x2e6849871b44182f:0xe6a33a02a2be8287!8m2!3d-6.9192875!4d106.9179308!16s%2Fg%2F11j936j_5r!19sChIJLxhEG4dJaC4Rh4K-ogI6o-Y?authuser=0&hl=id&rclk=1",
+        "total_reviews": 2
+    },
+    {
+        "name": "MARA cafe",
+        "address": "Jl. Siliwangi No.75",
+        "rating": "4,2",
+        "latitude": -6.916477,
+        "longitude": 106.93573,
+        "link": "https://www.google.com/maps/place/MARA+cafe/data=!4m7!3m6!1s0x2e68490074f8ec5f:0xe717175bc25d3cb9!8m2!3d-6.916477!4d106.93573!16s%2Fg%2F11vwhnq_q9!19sChIJX-z4dABJaC4RuTxdwlsXF-c?authuser=0&hl=id&rclk=1",
+        "total_reviews": 22
+    },
+    {
+        "name": "Warkop Sari Rasa M.Dahlan",
+        "address": "Alamat tidak ditemukan",
+        "rating": "4,8",
+        "latitude": -6.9236843,
+        "longitude": 106.9216607,
+        "link": "https://www.google.com/maps/place/Warkop+Sari+Rasa+M.Dahlan/data=!4m7!3m6!1s0x2e68482571aabd25:0x729f9ba2c9617b23!8m2!3d-6.9236843!4d106.9216607!16s%2Fg%2F11fy4hnngg!19sChIJJb2qcSVIaC4RI3thyaKbn3I?authuser=0&hl=id&rclk=1",
+        "total_reviews": 33
+    },
+    {
+        "name": "Mond Coffee",
+        "address": "Jl. Pelda Suryanta",
+        "rating": "4,6",
+        "latitude": -6.9346337,
+        "longitude": 106.9348221,
+        "link": "https://www.google.com/maps/place/Mond+Coffee/data=!4m7!3m6!1s0x2e6849cb0acb6c89:0x4689b22cee0a8d32!8m2!3d-6.9346337!4d106.9348221!16s%2Fg%2F11vf2yvxsk!19sChIJiWzLCstJaC4RMo0K7iyyiUY?authuser=0&hl=id&rclk=1",
+        "total_reviews": 9
+    },
+    {
+        "name": "Kopi Susu Singapore (Tahu Kepo)",
+        "address": "Jl. Gudang No.37",
+        "rating": "5,0",
+        "latitude": -6.9210385,
+        "longitude": 106.9340735,
+        "link": "https://www.google.com/maps/place/Kopi+Susu+Singapore+%28Tahu+Kepo%29/data=!4m7!3m6!1s0x2e68491389b506bf:0x9f9ca1bb70b398f4!8m2!3d-6.9210385!4d106.9340735!16s%2Fg%2F11x64xgfpz!19sChIJvwa1iRNJaC4R9JizcLuhnJ8?authuser=0&hl=id&rclk=1",
+        "total_reviews": 5
+    },
+    {
+        "name": "Kedai PPOKT",
+        "address": "Alamat tidak ditemukan",
+        "rating": "5,0",
+        "latitude": -6.9087389,
+        "longitude": 106.8908763,
+        "link": "https://www.google.com/maps/place/Kedai+PPOKT/data=!4m7!3m6!1s0x2e68373fca0e8fb7:0xcacca9d7587c3987!8m2!3d-6.9087389!4d106.8908763!16s%2Fg%2F11ry96g9hn!19sChIJt48Oyj83aC4Rhzl8WNepzMo?authuser=0&hl=id&rclk=1",
+        "total_reviews": 1
+    },
+    {
+        "name": "PRIDE PALACE COFFE N EATERY ( MUSIC & HOBBIES SPACE)",
+        "address": "Jl. Surya Kencana No.38",
+        "rating": "4,8",
+        "latitude": -6.9169895,
+        "longitude": 106.9305169,
+        "link": "https://www.google.com/maps/place/PRIDE+PALACE+COFFE+N+EATERY+%28+MUSIC+%26+HOBBIES+SPACE%29/data=!4m7!3m6!1s0x2e68495f2d8b0d09:0x24e3f9951340e69c!8m2!3d-6.9169895!4d106.9305169!16s%2Fg%2F11h6t_c558!19sChIJCQ2LLV9JaC4RnOZAE5X54yQ?authuser=0&hl=id&rclk=1",
+        "total_reviews": 90
+    },
+    {
+        "name": "Kampoeng Kopi Sukabumi",
+        "address": "Near Kampoeng Ikan Resto, Jl. Baru",
+        "rating": "4,8",
+        "latitude": -6.9220771,
+        "longitude": 106.97095,
+        "link": "https://www.google.com/maps/place/Kampoeng+Kopi+Sukabumi/data=!4m7!3m6!1s0x2e6849fe01050913:0x2f79aea92aa400c7!8m2!3d-6.9220771!4d106.97095!16s%2Fg%2F11mtd2bpng!19sChIJEwkFAf5JaC4RxwCkKqmueS8?authuser=0&hl=id&rclk=1",
+        "total_reviews": 27
+    },
+    {
+        "name": "Kedai Sriwidari 68",
+        "address": "Jl. Sriwidari No.70",
+        "rating": "4,7",
+        "latitude": -6.9140777,
+        "longitude": 106.9280802,
+        "link": "https://www.google.com/maps/place/Kedai+Sriwidari+68/data=!4m7!3m6!1s0x2e68483310ff8de3:0x30953f2875bc9717!8m2!3d-6.9140777!4d106.9280802!16s%2Fg%2F11f26x8qb0!19sChIJ443_EDNIaC4RF5e8dSg_lTA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 33
+    },
+    {
+        "name": "Tikkum",
+        "address": "Jl. Cikole Dalam No.38",
+        "rating": "4,4",
+        "latitude": -6.9178775,
+        "longitude": 106.9323851,
+        "link": "https://www.google.com/maps/place/Tikkum/data=!4m7!3m6!1s0x2e684963c601523f:0x360bd53756e32c87!8m2!3d-6.9178775!4d106.9323851!16s%2Fg%2F11trsyd_8s!19sChIJP1IBxmNJaC4RhyzjVjfVCzY?authuser=0&hl=id&rclk=1",
+        "total_reviews": 143
+    },
+    {
         "name": "Kopi Warga Sukabumi",
         "address": "3WJQ+JR7, Jl. Samsi Jl. Babakan Jampang, RT.1/RW.19",
         "rating": "5,0",
@@ -495,31 +927,31 @@
         "total_reviews": 5
     },
     {
-        "name": "Co-Feed Coffee",
-        "address": "Jl. Dewi Sartika No.39",
-        "rating": "4,9",
-        "latitude": -6.9174808,
-        "longitude": 106.932235,
-        "link": "https://www.google.com/maps/place/Co-Feed+Coffee/data=!4m7!3m6!1s0x2e684945087f2f57:0x81aff099122d835b!8m2!3d-6.9174808!4d106.932235!16s%2Fg%2F11rjv1lc1_!19sChIJVy9_CEVJaC4RW4MtEpnwr4E?authuser=0&hl=id&rclk=1",
-        "total_reviews": 39
-    },
-    {
-        "name": "Kedai Kopi 35",
-        "address": "Jl. Surya Kencana No.101",
-        "rating": "4,6",
-        "latitude": -6.9110476,
-        "longitude": 106.9346821,
-        "link": "https://www.google.com/maps/place/Kedai+Kopi+35/data=!4m7!3m6!1s0x2e6849745e51467f:0xaddf5df328382c4!8m2!3d-6.9110476!4d106.9346821!16s%2Fg%2F11gk6pwy1q!19sChIJf0ZRXnRJaC4RxIKDMt_13Qo?authuser=0&hl=id&rclk=1",
-        "total_reviews": 362
-    },
-    {
-        "name": "Brue",
+        "name": "de'cafe",
         "address": "Alamat tidak ditemukan",
-        "rating": "4,7",
-        "latitude": -6.917467,
-        "longitude": 106.9313126,
-        "link": "https://www.google.com/maps/place/Brue/data=!4m7!3m6!1s0x2e684987b0c938ad:0xa846ed4cf4361deb!8m2!3d-6.917467!4d106.9313126!16s%2Fg%2F11vdf9qrm5!19sChIJrTjJsIdJaC4R6x029EztRqg?authuser=0&hl=id&rclk=1",
-        "total_reviews": 55
+        "rating": "4,8",
+        "latitude": -6.9247684,
+        "longitude": 106.8860993,
+        "link": "https://www.google.com/maps/place/de%27cafe/data=!4m7!3m6!1s0x2e683769ed037d29:0x2c6b097bb92a2e45!8m2!3d-6.9247684!4d106.8860993!16s%2Fg%2F11kwndzftd!19sChIJKX0D7Wk3aC4RRS4quXsJayw?authuser=0&hl=id&rclk=1",
+        "total_reviews": 8
+    },
+    {
+        "name": "Kopikat Sukabumi",
+        "address": "Jl. Syamsudin. SH No.51",
+        "rating": "5,0",
+        "latitude": -6.9182323,
+        "longitude": 106.9345773,
+        "link": "https://www.google.com/maps/place/Kopikat+Sukabumi/data=!4m7!3m6!1s0x2e6849ccfd87cabd:0x6bc2570b0cb9304d!8m2!3d-6.9182323!4d106.9345773!16s%2Fg%2F11jcgnhpc0!19sChIJvcqH_cxJaC4RTTC5DAtXwms?authuser=0&hl=id&rclk=1",
+        "total_reviews": 1
+    },
+    {
+        "name": "Milan Pizzeria Cafe",
+        "address": "Jl. Surya Kencana No.5, RW.6",
+        "rating": "4,5",
+        "latitude": -6.9188451,
+        "longitude": 106.9282451,
+        "link": "https://www.google.com/maps/place/Milan+Pizzeria+Cafe/data=!4m7!3m6!1s0x2e6848311a5ce80b:0xf63cea179842549d!8m2!3d-6.9188451!4d106.9282451!16s%2Fg%2F11c3s91frc!19sChIJC-hcGjFIaC4RnVRCmBfqPPY?authuser=0&hl=id&rclk=1",
+        "total_reviews": 830
     },
     {
         "name": "Kedai kopi & teh GRACIA",
@@ -531,31 +963,13 @@
         "total_reviews": 2
     },
     {
-        "name": "Tekun.id Sukabumi",
-        "address": "Jl. Ir. H. Juanda",
-        "rating": "4,9",
-        "latitude": -6.9202609,
-        "longitude": 106.9309856,
-        "link": "https://www.google.com/maps/place/Tekun.id+Sukabumi/data=!4m7!3m6!1s0x2e68496e201c4461:0x6807920472c07dcb!8m2!3d-6.9202609!4d106.9309856!16s%2Fg%2F11rf9_ytkc!19sChIJYUQcIG5JaC4Ry33AcgSSB2g?authuser=0&hl=id&rclk=1",
-        "total_reviews": 435
-    },
-    {
-        "name": "Kopi Kamana - Sriwidari",
-        "address": "Jl. Sriwidari",
-        "rating": "4,7",
-        "latitude": -6.9173245,
-        "longitude": 106.9258326,
-        "link": "https://www.google.com/maps/place/Kopi+Kamana+-+Sriwidari/data=!4m7!3m6!1s0x2e6849db58f6ea9b:0x9808978ab92e2255!8m2!3d-6.9173245!4d106.9258326!16s%2Fg%2F11rrr9pjn_!19sChIJm-r2WNtJaC4RVSIuuYqXCJg?authuser=0&hl=id&rclk=1",
-        "total_reviews": 188
-    },
-    {
-        "name": "Thread Coffee",
-        "address": "Jl. Kenari No.12",
-        "rating": "4,8",
-        "latitude": -6.9148603,
-        "longitude": 106.9299571,
-        "link": "https://www.google.com/maps/place/Thread+Coffee/data=!4m7!3m6!1s0x2e684910ed965b95:0x1eef3bb35e9035d2!8m2!3d-6.9148603!4d106.9299571!16s%2Fg%2F11kp5sz4vs!19sChIJlVuW7RBJaC4R0jWQXrM77x4?authuser=0&hl=id&rclk=1",
-        "total_reviews": 22
+        "name": "Moonshine Coffee & Space",
+        "address": "Jl. Gunung Jaya Kaler",
+        "rating": "4,4",
+        "latitude": -6.8843541,
+        "longitude": 106.9064907,
+        "link": "https://www.google.com/maps/place/Moonshine+Coffee+%26+Space/data=!4m7!3m6!1s0x2e68372d3da6dac9:0x74a175c1837948b3!8m2!3d-6.8843541!4d106.9064907!16s%2Fg%2F11np7t91m3!19sChIJydqmPS03aC4Rs0h5g8F1oXQ?authuser=0&hl=id&rclk=1",
+        "total_reviews": 297
     },
     {
         "name": "Manan Coffe",
@@ -567,13 +981,13 @@
         "total_reviews": 9
     },
     {
-        "name": "Point Cafe Raden Samsudin",
-        "address": "Alamat tidak ditemukan",
-        "rating": "4,8",
-        "latitude": -6.9148532,
-        "longitude": 106.9357845,
-        "link": "https://www.google.com/maps/place/Point+Cafe+Raden+Samsudin/data=!4m7!3m6!1s0x2e68498c6dbc9fc3:0xc7fea6d4ba7873df!8m2!3d-6.9148532!4d106.9357845!16s%2Fg%2F11fj98rzy9!19sChIJw5-8bYxJaC4R33N4utSm_sc?authuser=0&hl=id&rclk=1",
-        "total_reviews": 112
+        "name": "Terserah resto n cafe",
+        "address": "Jl. Sudirman No.103",
+        "rating": "5,0",
+        "latitude": -6.9210101,
+        "longitude": 106.9217887,
+        "link": "https://www.google.com/maps/place/Terserah+resto+n+cafe/data=!4m7!3m6!1s0x2e68493a0e58b509:0x6967a1cefe0b8743!8m2!3d-6.9210101!4d106.9217887!16s%2Fg%2F11ry75xkm8!19sChIJCbVYDjpJaC4RQ4cL_s6hZ2k?authuser=0&hl=id&rclk=1",
+        "total_reviews": 2
     },
     {
         "name": "Point Coffee",
@@ -585,31 +999,31 @@
         "total_reviews": 3
     },
     {
-        "name": "MOKODO SPACE",
-        "address": "Jl. Pelabuhan II No.178",
-        "rating": "4,6",
-        "latitude": -6.9337058,
-        "longitude": 106.9249425,
-        "link": "https://www.google.com/maps/place/MOKODO+SPACE/data=!4m7!3m6!1s0x2e6849a4eb5aac35:0xeb48e7175dc749!8m2!3d-6.9337058!4d106.9249425!16s%2Fg%2F11fvw_ty5z!19sChIJNaxa66RJaC4RScddF-dI6wA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 462
+        "name": "Starlings Corner",
+        "address": "3WHJ+Q3V, Jl. RE Martadinata",
+        "rating": "5,0",
+        "latitude": -6.9205223,
+        "longitude": 106.9301735,
+        "link": "https://www.google.com/maps/place/Starlings+Corner/data=!4m7!3m6!1s0x2e6849004beb939d:0xc5adbff0ed94d632!8m2!3d-6.9205223!4d106.9301735!16s%2Fg%2F11wwmwr_d5!19sChIJnZPrSwBJaC4RMtaU7fC_rcU?authuser=0&hl=id&rclk=1",
+        "total_reviews": 1
     },
     {
-        "name": "Nama Coffee",
-        "address": "Jl. RH. Didi Sukardi No.37",
-        "rating": "4,6",
-        "latitude": -6.9341349,
-        "longitude": 106.932222,
-        "link": "https://www.google.com/maps/place/Nama+Coffee/data=!4m7!3m6!1s0x2e6849f69256371f:0xe1d6e8bae52d7ead!8m2!3d-6.9341349!4d106.932222!16s%2Fg%2F11j3rdk7x9!19sChIJHzdWkvZJaC4RrX4t5bro1uE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 550
+        "name": "KEDAI KEMBALI",
+        "address": "Jl. Ciaul Pasir, RT.5/RW.8",
+        "rating": "4,5",
+        "latitude": -6.9176611,
+        "longitude": 106.9443914,
+        "link": "https://www.google.com/maps/place/KEDAI+KEMBALI/data=!4m7!3m6!1s0x2e6849499deaf961:0x455843d25a955703!8m2!3d-6.9176611!4d106.9443914!16s%2Fg%2F11sjjxst79!19sChIJYfnqnUlJaC4RA1eVWtJDWEU?authuser=0&hl=id&rclk=1",
+        "total_reviews": 47
     },
     {
-        "name": "De'Garasi kopi x antilegend stockroom",
-        "address": "Jl. Tipar No.68-64",
-        "rating": "4,4",
-        "latitude": -6.9269847,
-        "longitude": 106.9294273,
-        "link": "https://www.google.com/maps/place/De%27Garasi+kopi+x+antilegend+stockroom/data=!4m7!3m6!1s0x2e68492485eb3eb3:0x6869c503bb65fb32!8m2!3d-6.9269847!4d106.9294273!16s%2Fg%2F11jxy3r7x6!19sChIJsz7rhSRJaC4RMvtluwPFaWg?authuser=0&hl=id&rclk=1",
-        "total_reviews": 10
+        "name": "kedai kopi TORTUGA",
+        "address": "Jl. Dayeuh Luhur No.10",
+        "rating": "4,5",
+        "latitude": -6.9386466,
+        "longitude": 106.9229659,
+        "link": "https://www.google.com/maps/place/kedai+kopi+TORTUGA/data=!4m7!3m6!1s0x2e6849d210850f7d:0xc7b3cdbb79dbf935!8m2!3d-6.9386466!4d106.9229659!16s%2Fg%2F11jk687t1k!19sChIJfQ-FENJJaC4RNfnbebvNs8c?authuser=0&hl=id&rclk=1",
+        "total_reviews": 6
     },
     {
         "name": "Kopi depan rumah",
@@ -621,31 +1035,13 @@
         "total_reviews": 2
     },
     {
-        "name": "Kedai Kopi Nusantara Sukabumi",
-        "address": "Jl. Cicantayan",
-        "rating": "4,7",
-        "latitude": -6.9072209,
-        "longitude": 106.8737166,
-        "link": "https://www.google.com/maps/place/Kedai+Kopi+Nusantara+Sukabumi/data=!4m7!3m6!1s0x2e683651085e2bef:0x718208dd0e95b80b!8m2!3d-6.9072209!4d106.8737166!16s%2Fg%2F11f_p2qspg!19sChIJ7yteCFE2aC4RC7iVDt0IgnE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 51
-    },
-    {
-        "name": "Kopi Kamana - Lettu Bakri",
-        "address": "Jl. Lettu Bakri No.8",
-        "rating": "4,7",
-        "latitude": -6.9220441,
-        "longitude": 106.9221338,
-        "link": "https://www.google.com/maps/place/Kopi+Kamana+-+Lettu+Bakri/data=!4m7!3m6!1s0x2e6849ea7527ed5f:0xc0eac1d338a380db!8m2!3d-6.9220441!4d106.9221338!16s%2Fg%2F11hdy7j9lf!19sChIJX-0ndepJaC4R24CjONPB6sA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 239
-    },
-    {
-        "name": "Kedai Coffe KOPDUDE",
-        "address": "Jl. Pajajaran 1 No.36",
-        "rating": "4,7",
-        "latitude": -6.914945,
-        "longitude": 106.89828,
-        "link": "https://www.google.com/maps/place/Kedai+Coffe+KOPDUDE/data=!4m7!3m6!1s0x2e6837e222a6d5f1:0x3402aa653fbc4b!8m2!3d-6.914945!4d106.89828!16s%2Fg%2F11rwx2rmsk!19sChIJ8dWmIuI3aC4RS7w_ZaoCNAA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 10
+        "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+        "address": "Jl. Syamsudin. SH No.31",
+        "rating": "4,9",
+        "latitude": -6.918328,
+        "longitude": 106.9329055,
+        "link": "https://www.google.com/maps/place/Takashi+Bakehouse+x+Republik+Burger+Sukabumi/data=!4m7!3m6!1s0x2e6849d4079d1495:0x1012323ad552eab2!8m2!3d-6.918328!4d106.9329055!16s%2Fg%2F11t438pzj8!19sChIJlRSdB9RJaC4RsupS1ToyEhA?authuser=0&hl=id&rclk=1",
+        "total_reviews": 81
     },
     {
         "name": "Choma",
@@ -657,24 +1053,6 @@
         "total_reviews": 1
     },
     {
-        "name": "Sulanjana coffee & Eatery",
-        "address": "4W4Q+39H, Jl. Selabintana",
-        "rating": "4,8",
-        "latitude": -6.8943366,
-        "longitude": 106.9382412,
-        "link": "https://www.google.com/maps/place/Sulanjana+coffee+%26+Eatery/data=!4m7!3m6!1s0x2e68490005edab03:0xe039e4cbe5aef4e6!8m2!3d-6.8943366!4d106.9382412!16s%2Fg%2F11lcjfyz5d!19sChIJA6vtBQBJaC4R5vSu5cvkOeA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 22
-    },
-    {
-        "name": "Cafe Abadi COFFEE & BOBA DEGUNG",
-        "address": "3WH8+X8W, Jl. Benteng",
-        "rating": "5,0",
-        "latitude": -6.9200004,
-        "longitude": 106.9158251,
-        "link": "https://www.google.com/maps/place/Cafe+Abadi+COFFEE+%26+BOBA+DEGUNG/data=!4m7!3m6!1s0x2e68491bc6010801:0xfcf21b8687a601a7!8m2!3d-6.9200004!4d106.9158251!16s%2Fg%2F11rknz5543!19sChIJAQgBxhtJaC4RpwGmh4Yb8vw?authuser=0&hl=id&rclk=1",
-        "total_reviews": 4
-    },
-    {
         "name": "ABADI CAFE - COFFE & BOBA Cibaraja",
         "address": "Jl. Cagak - Cibaraja No.41",
         "rating": "4,6",
@@ -682,24 +1060,6 @@
         "longitude": 106.8818975,
         "link": "https://www.google.com/maps/place/ABADI+CAFE+-+COFFE+%26+BOBA+Cibaraja/data=!4m7!3m6!1s0x2e6837fc63836bcd:0xc5a25085b0875fa4!8m2!3d-6.9011997!4d106.8818975!16s%2Fg%2F11l55m6_1l!19sChIJzWuDY_w3aC4RpF-HsIVQosU?authuser=0&hl=id&rclk=1",
         "total_reviews": 7
-    },
-    {
-        "name": "Mokopi Jalur",
-        "address": "Jl. Tangkil - Agrabinta",
-        "rating": "4,1",
-        "latitude": -6.9338892,
-        "longitude": 106.9035913,
-        "link": "https://www.google.com/maps/place/Mokopi+Jalur/data=!4m7!3m6!1s0x2e6837b075128f4f:0xddcde4b70d6bbc0f!8m2!3d-6.9338892!4d106.9035913!16s%2Fg%2F11tslq7pz4!19sChIJT48SdbA3aC4RD7xrDbfkzd0?authuser=0&hl=id&rclk=1",
-        "total_reviews": 213
-    },
-    {
-        "name": "Kopitiam Sukabumi",
-        "address": "Jalan Surya Kencana, Selabatu, Cikole, Jl. Surya Kencana No.50",
-        "rating": "4,4",
-        "latitude": -6.9167923,
-        "longitude": 106.9310169,
-        "link": "https://www.google.com/maps/place/Kopitiam+Sukabumi/data=!4m7!3m6!1s0x2e6848341a203c7b:0xc4b3d488bcb4cc35!8m2!3d-6.9167923!4d106.9310169!16s%2Fg%2F11c5x35tr_!19sChIJezwgGjRIaC4RNcy0vIjUs8Q?authuser=0&hl=id&rclk=1",
-        "total_reviews": 336
     },
     {
         "name": "Bapak hitam cafe",
@@ -717,366 +1077,6 @@
         "latitude": -6.950976,
         "longitude": 106.9246909,
         "link": "https://www.google.com/maps/place/SABA+BALI+CAFE+AND+RESTO/data=!4m7!3m6!1s0x2e6849521f5c61eb:0x32f978c4ad06f6d8!8m2!3d-6.950976!4d106.9246909!16s%2Fg%2F11js_dnt7m!19sChIJ62FcH1JJaC4R2PYGrcR4-TI?authuser=0&hl=id&rclk=1",
-        "total_reviews": 1
-    },
-    {
-        "name": "VIDI Coffee Kopling On Bike",
-        "address": "Jl. Alun-alun Utara. Kelurahan gunung parang. Kecamatan Cikole. Kota",
-        "rating": "5,0",
-        "latitude": -6.9208633,
-        "longitude": 106.925674,
-        "link": "https://www.google.com/maps/place/VIDI+Coffee+Kopling+On+Bike/data=!4m7!3m6!1s0x2e6849df03dccc4f:0xeb511441abeb245!8m2!3d-6.9208633!4d106.925674!16s%2Fg%2F11t6nngtqv!19sChIJT8zcA99JaC4RRbK-GkQRtQ4?authuser=0&hl=id&rclk=1",
-        "total_reviews": 4
-    },
-    {
-        "name": "Seecul Signature Kaum",
-        "address": "Jl. Masjid No.11",
-        "rating": "4,7",
-        "latitude": -6.9200698,
-        "longitude": 106.9253477,
-        "link": "https://www.google.com/maps/place/Seecul+Signature+Kaum/data=!4m7!3m6!1s0x2e6849a11da91383:0x77ff921188ac69eb!8m2!3d-6.9200698!4d106.9253477!16s%2Fg%2F11nykx29cf!19sChIJgxOpHaFJaC4R62msiBGS_3c?authuser=0&hl=id&rclk=1",
-        "total_reviews": 57
-    },
-    {
-        "name": "warkop veteran27 sukabumi",
-        "address": "Alamat tidak ditemukan",
-        "rating": "4,2",
-        "latitude": -6.9194152,
-        "longitude": 106.9231342,
-        "link": "https://www.google.com/maps/place/warkop+veteran27+sukabumi/data=!4m7!3m6!1s0x2e6849a2f2610d77:0xcb4d66504b266b57!8m2!3d-6.9194152!4d106.9231342!16s%2Fg%2F11pv5gm97j!19sChIJdw1h8qJJaC4RV2smS1BmTcs?authuser=0&hl=id&rclk=1",
-        "total_reviews": 25
-    },
-    {
-        "name": "Kalijodocoffee Sukabumi",
-        "address": "Jl. R. E. Martadinata No.21",
-        "rating": "4,6",
-        "latitude": -6.9201946,
-        "longitude": 106.9297307,
-        "link": "https://www.google.com/maps/place/Kalijodocoffee+Sukabumi/data=!4m7!3m6!1s0x2e6849053ed25373:0x99898c27d49c20c0!8m2!3d-6.9201946!4d106.9297307!16s%2Fg%2F11j97h_qg6!19sChIJc1PSPgVJaC4RwCCc1CeMiZk?authuser=0&hl=id&rclk=1",
-        "total_reviews": 14
-    },
-    {
-        "name": "Mr.yos",
-        "address": "Jl. Gudang No.1",
-        "rating": "5,0",
-        "latitude": -6.9226835,
-        "longitude": 106.9339108,
-        "link": "https://www.google.com/maps/place/Mr.yos/data=!4m7!3m6!1s0x2e6849db5af09131:0x959eaa69fb4ed5b9!8m2!3d-6.9226835!4d106.9339108!16s%2Fg%2F11lrplc4jv!19sChIJMZHwWttJaC4RudVO-2mqnpU?authuser=0&hl=id&rclk=1",
-        "total_reviews": 2
-    },
-    {
-        "name": "Kaisha palace Food and coffee",
-        "address": "Jl. Siliwangi No.80",
-        "rating": "4,5",
-        "latitude": -6.917929,
-        "longitude": 106.9363208,
-        "link": "https://www.google.com/maps/place/Kaisha+palace+Food+and+coffee/data=!4m7!3m6!1s0x2e684998c3b208a7:0xde79b254eac2e0fe!8m2!3d-6.917929!4d106.9363208!16s%2Fg%2F11p55rk93j!19sChIJpwiyw5hJaC4R_uDC6lSyed4?authuser=0&hl=id&rclk=1",
-        "total_reviews": 145
-    },
-    {
-        "name": "kedai kopi TORTUGA",
-        "address": "Jl. Dayeuh Luhur No.10",
-        "rating": "4,5",
-        "latitude": -6.9386466,
-        "longitude": 106.9229659,
-        "link": "https://www.google.com/maps/place/kedai+kopi+TORTUGA/data=!4m7!3m6!1s0x2e6849d210850f7d:0xc7b3cdbb79dbf935!8m2!3d-6.9386466!4d106.9229659!16s%2Fg%2F11jk687t1k!19sChIJfQ-FENJJaC4RNfnbebvNs8c?authuser=0&hl=id&rclk=1",
-        "total_reviews": 6
-    },
-    {
-        "name": "Warga Holy",
-        "address": "Alamat tidak ditemukan",
-        "rating": "4,6",
-        "latitude": -6.9128191,
-        "longitude": 106.9331877,
-        "link": "https://www.google.com/maps/place/Warga+Holy/data=!4m7!3m6!1s0x2e68496d3655607f:0x62c1b79b0a982d96!8m2!3d-6.9128191!4d106.9331877!16s%2Fg%2F11tjm04y4d!19sChIJf2BVNm1JaC4Rli2YCpu3wWI?authuser=0&hl=id&rclk=1",
-        "total_reviews": 58
-    },
-    {
-        "name": "Teras Kopi",
-        "address": "Alamat tidak ditemukan",
-        "rating": "5,0",
-        "latitude": -6.9251804,
-        "longitude": 106.9238595,
-        "link": "https://www.google.com/maps/place/Teras+Kopi/data=!4m7!3m6!1s0x2e68492ac016987f:0x4006f7d2126a9d6f!8m2!3d-6.9251804!4d106.9238595!16s%2Fg%2F11fl5q0mh6!19sChIJf5gWwCpJaC4Rb51qEtL3BkA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 51
-    },
-    {
-        "name": "D'Green Resto and Coffee",
-        "address": "Jl. Selabintana No.54",
-        "rating": "4,5",
-        "latitude": -6.9073637,
-        "longitude": 106.9372068,
-        "link": "https://www.google.com/maps/place/D%27Green+Resto+and+Coffee/data=!4m7!3m6!1s0x2e6849b5e5e9edcf:0xe35fbd6ada039627!8m2!3d-6.9073637!4d106.9372068!16s%2Fg%2F11bw21bts8!19sChIJz-3p5bVJaC4RJ5YD2mq9X-M?authuser=0&hl=id&rclk=1",
-        "total_reviews": 1751
-    },
-    {
-        "name": "Kebab Turkey Baba Yusron (Cisaat)",
-        "address": "Jl. Cikiray Kaler",
-        "rating": "4,0",
-        "latitude": -6.9075185,
-        "longitude": 106.8910434,
-        "link": "https://www.google.com/maps/place/Kebab+Turkey+Baba+Yusron+%28Cisaat%29/data=!4m7!3m6!1s0x2e6837002d083cbf:0x25061e8a96c48887!8m2!3d-6.9075185!4d106.8910434!16s%2Fg%2F11x160rxgw!19sChIJvzwILQA3aC4Rh4jElooeBiU?authuser=0&hl=id&rclk=1",
-        "total_reviews": 1
-    },
-    {
-        "name": "Point Coffee Jalur Sukabumi",
-        "address": "Jl. RAYA LINGKAR SLEATAN, JALUR ) SINDANG SARI",
-        "rating": "4,6",
-        "latitude": -6.9479707,
-        "longitude": 106.9161151,
-        "link": "https://www.google.com/maps/place/Point+Coffee+Jalur+Sukabumi/data=!4m7!3m6!1s0x2e684993506316a5:0xd6d8ef289aea6a94!8m2!3d-6.9479707!4d106.9161151!16s%2Fg%2F11fpkwz688!19sChIJpRZjUJNJaC4RlGrqmijv2NY?authuser=0&hl=id&rclk=1",
-        "total_reviews": 27
-    },
-    {
-        "name": "Cafe Kappe",
-        "address": "Alamat tidak ditemukan",
-        "rating": "4,4",
-        "latitude": -6.916497,
-        "longitude": 106.9317668,
-        "link": "https://www.google.com/maps/place/Cafe+Kappe/data=!4m7!3m6!1s0x2e6848343bea3bdf:0x546de04d1089fb19!8m2!3d-6.916497!4d106.9317668!16s%2Fg%2F11ckr9p0q2!19sChIJ3zvqOzRIaC4RGfuJEE3gbVQ?authuser=0&hl=id&rclk=1",
-        "total_reviews": 121
-    },
-    {
-        "name": "Red Brick Cafe",
-        "address": "Jl. Pelabuhan II No.271",
-        "rating": "4,6",
-        "latitude": -6.9400865,
-        "longitude": 106.9235813,
-        "link": "https://www.google.com/maps/place/Red+Brick+Cafe/data=!4m7!3m6!1s0x2e68481a779b386b:0x536ff43d2a289e6e!8m2!3d-6.9400865!4d106.9235813!16s%2Fg%2F11cp77yzq8!19sChIJazibdxpIaC4Rbp4oKj30b1M?authuser=0&hl=id&rclk=1",
-        "total_reviews": 1708
-    },
-    {
-        "name": "Rumah teman",
-        "address": "Jl. Syamsudin. SH Gg. Ajid 2 No.4",
-        "rating": "4,5",
-        "latitude": -6.9185498,
-        "longitude": 106.9309044,
-        "link": "https://www.google.com/maps/place/Rumah+teman/data=!4m7!3m6!1s0x2e684916db258a93:0x711eb831a8728a11!8m2!3d-6.9185498!4d106.9309044!16s%2Fg%2F11ts18vhnf!19sChIJk4ol2xZJaC4REYpyqDG4HnE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 4
-    },
-    {
-        "name": "KOMIE",
-        "address": "Jl. Sriwidari No.34",
-        "rating": "4,6",
-        "latitude": -6.916097,
-        "longitude": 106.9267232,
-        "link": "https://www.google.com/maps/place/KOMIE/data=!4m7!3m6!1s0x2e6848324a063ead:0x12abf0f85733d51a!8m2!3d-6.916097!4d106.9267232!16s%2Fg%2F11fy933022!19sChIJrT4GSjJIaC4RGtUzV_jwqxI?authuser=0&hl=id&rclk=1",
-        "total_reviews": 35
-    },
-    {
-        "name": "Code Coffee",
-        "address": "Jl. Selabintana No.23",
-        "rating": "4,7",
-        "latitude": -6.9088535,
-        "longitude": 106.9361785,
-        "link": "https://www.google.com/maps/place/Code+Coffee/data=!4m7!3m6!1s0x2e6849b58680d713:0x681d4dd83b57a4b0!8m2!3d-6.9088535!4d106.9361785!16s%2Fg%2F11pz0zsxms!19sChIJE9eAhrVJaC4RsKRXO9hNHWg?authuser=0&hl=id&rclk=1",
-        "total_reviews": 21
-    },
-    {
-        "name": "DISISICOFFEE",
-        "address": "Jl. Pajagalan No.19",
-        "rating": "4,7",
-        "latitude": -6.9251134,
-        "longitude": 106.9227412,
-        "link": "https://www.google.com/maps/place/DISISICOFFEE/data=!4m7!3m6!1s0x2e6849eff3e014c3:0x11e11b79c57646c4!8m2!3d-6.9251134!4d106.9227412!16s%2Fg%2F11vjmrx97p!19sChIJwxTg8-9JaC4RxEZ2xXkb4RE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 14
-    },
-    {
-        "name": "He's Kitchen",
-        "address": "Jl. R. E. Martadinata No.31",
-        "rating": "4,0",
-        "latitude": -6.9203836,
-        "longitude": 106.9306884,
-        "link": "https://www.google.com/maps/place/He%27s+Kitchen/data=!4m7!3m6!1s0x2e6849014d637331:0xee9c24d1f54c6629!8m2!3d-6.9203836!4d106.9306884!16s%2Fg%2F11t14y444d!19sChIJMXNjTQFJaC4RKWZM9dEknO4?authuser=0&hl=id&rclk=1",
-        "total_reviews": 1
-    },
-    {
-        "name": "Selamat Ngopi ( coffee corners )",
-        "address": "Jl. KH. Ahmad Sanusi No.111",
-        "rating": "5,0",
-        "latitude": -6.9142047,
-        "longitude": 106.905553,
-        "link": "https://www.google.com/maps/place/Selamat+Ngopi+%28+coffee+corners+%29/data=!4m7!3m6!1s0x2e6837a9fb2b1bb1:0x1460b398fd7f4cc7!8m2!3d-6.9142047!4d106.905553!16s%2Fg%2F11t3gnjlwg!19sChIJsRsr-6k3aC4Rx0x__ZizYBQ?authuser=0&hl=id&rclk=1",
-        "total_reviews": 1
-    },
-    {
-        "name": "He's Kitchen",
-        "address": "Jl. R. E. Martadinata No.31",
-        "rating": "4,0",
-        "latitude": -6.9203836,
-        "longitude": 106.9306884,
-        "link": "https://www.google.com/maps/place/He%27s+Kitchen/data=!4m7!3m6!1s0x2e6849014d637331:0xee9c24d1f54c6629!8m2!3d-6.9203836!4d106.9306884!16s%2Fg%2F11t14y444d!19sChIJMXNjTQFJaC4RKWZM9dEknO4?authuser=0&hl=id&rclk=1",
-        "total_reviews": 1
-    },
-    {
-        "name": "Selamat Ngopi ( coffee corners )",
-        "address": "Jl. KH. Ahmad Sanusi No.111",
-        "rating": "5,0",
-        "latitude": -6.9142047,
-        "longitude": 106.905553,
-        "link": "https://www.google.com/maps/place/Selamat+Ngopi+%28+coffee+corners+%29/data=!4m7!3m6!1s0x2e6837a9fb2b1bb1:0x1460b398fd7f4cc7!8m2!3d-6.9142047!4d106.905553!16s%2Fg%2F11t3gnjlwg!19sChIJsRsr-6k3aC4Rx0x__ZizYBQ?authuser=0&hl=id&rclk=1",
-        "total_reviews": 1
-    },
-    {
-        "name": "Coffee Cienta Sukabumi",
-        "address": "3WHC+MRM Soedirman Street Food Sukabumi, Jl. Sudirman",
-        "rating": "5,0",
-        "latitude": -6.9207807,
-        "longitude": 106.922053,
-        "link": "https://www.google.com/maps/place/Coffee+Cienta+Sukabumi/data=!4m7!3m6!1s0x2e68491cf0cc47db:0xdcf243872fde5c1c!8m2!3d-6.9207807!4d106.922053!16s%2Fg%2F11n718n6c3!19sChIJ20fM8BxJaC4RHFzeL4dD8tw?authuser=0&hl=id&rclk=1",
-        "total_reviews": 1
-    },
-    {
-        "name": "Kedai Coffee Saayana",
-        "address": "Jl. Cikiray-Cijambu No.40",
-        "rating": "4,1",
-        "latitude": -6.9102606,
-        "longitude": 106.8975446,
-        "link": "https://www.google.com/maps/place/Kedai+Coffee+Saayana/data=!4m7!3m6!1s0x2e6837897c530127:0x79b3ba56c4759719!8m2!3d-6.9102606!4d106.8975446!16s%2Fg%2F11rc8qn6k1!19sChIJJwFTfIk3aC4RGZd1xFa6s3k?authuser=0&hl=id&rclk=1",
-        "total_reviews": 14
-    },
-    {
-        "name": "Discovery Rooftop Cafe",
-        "address": "Fresh Hotel, Jl. Bhayangkara No.127 Building, 5th Floor",
-        "rating": "4,3",
-        "latitude": -6.9102577,
-        "longitude": 106.9213868,
-        "link": "https://www.google.com/maps/place/Discovery+Rooftop+Cafe/data=!4m7!3m6!1s0x2e6849d28d07c7c1:0x18680b823f102eee!8m2!3d-6.9102577!4d106.9213868!16s%2Fg%2F11c2l9bpqx!19sChIJwccHjdJJaC4R7i4QP4ILaBg?authuser=0&hl=id&rclk=1",
-        "total_reviews": 47
-    },
-    {
-        "name": "Kedai Kong Djie Coffee",
-        "address": "Jl. Cikole Dalam No.13",
-        "rating": "4,5",
-        "latitude": -6.9164429,
-        "longitude": 106.9327046,
-        "link": "https://www.google.com/maps/place/Kedai+Kong+Djie+Coffee/data=!4m7!3m6!1s0x2e6849e8e84d91df:0x74d8d9c63caf77db!8m2!3d-6.9164429!4d106.9327046!16s%2Fg%2F11jnvrz59z!19sChIJ35FN6OhJaC4R23evPMbZ2HQ?authuser=0&hl=id&rclk=1",
-        "total_reviews": 27
-    },
-    {
-        "name": "Kedai Kopi Jarian",
-        "address": "Jl. Cipelang Leutik No.11-127",
-        "rating": "4,9",
-        "latitude": -6.9169472,
-        "longitude": 106.9294649,
-        "link": "https://www.google.com/maps/place/Kedai+Kopi+Jarian/data=!4m7!3m6!1s0x2e6849e5b6b9898d:0x81176234d53be1e5!8m2!3d-6.9169472!4d106.9294649!16s%2Fg%2F11g22_xftn!19sChIJjYm5tuVJaC4R5eE71TRiF4E?authuser=0&hl=id&rclk=1",
-        "total_reviews": 21
-    },
-    {
-        "name": "Kopi Merdeka Sukabumi",
-        "address": "Jl. Veteran II No.2",
-        "rating": "5,0",
-        "latitude": -6.918832,
-        "longitude": 106.9264121,
-        "link": "https://www.google.com/maps/place/Kopi+Merdeka+Sukabumi/data=!4m7!3m6!1s0x2e684917b56f5e67:0x619d8900181245a6!8m2!3d-6.918832!4d106.9264121!16s%2Fg%2F11spngd27t!19sChIJZ15vtRdJaC4RpkUSGACJnWE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 15
-    },
-    {
-        "name": "Kopi Dermawan",
-        "address": "Jl. Surya Kencana No.52",
-        "rating": "4,3",
-        "latitude": -6.9166462,
-        "longitude": 106.9313158,
-        "link": "https://www.google.com/maps/place/Kopi+Dermawan/data=!4m7!3m6!1s0x2e684912f0c2a6fd:0x88ab2e8dcb787bcb!8m2!3d-6.9166462!4d106.9313158!16s%2Fg%2F11j2xg8tqp!19sChIJ_abC8BJJaC4Ry3t4y40uq4g?authuser=0&hl=id&rclk=1",
-        "total_reviews": 106
-    },
-    {
-        "name": "Praline Sukabumi",
-        "address": "Jl. Surya Kencana No.82",
-        "rating": "4,5",
-        "latitude": -6.9138936,
-        "longitude": 106.9336072,
-        "link": "https://www.google.com/maps/place/Praline+Sukabumi/data=!4m7!3m6!1s0x2e68483567c113a7:0xedd710740d6b681f!8m2!3d-6.9138936!4d106.9336072!16s%2Fg%2F11clzhb15d!19sChIJpxPBZzVIaC4RH2hrDXQQ1-0?authuser=0&hl=id&rclk=1",
-        "total_reviews": 395
-    },
-    {
-        "name": "Ala's Imah Ngopi Sukabumi",
-        "address": "Jl. Pelabuhan II No.Km 08",
-        "rating": "4,8",
-        "latitude": -6.9644058,
-        "longitude": 106.8753675,
-        "link": "https://www.google.com/maps/place/Ala%27s+Imah+Ngopi+Sukabumi/data=!4m7!3m6!1s0x2e68391ec0caba7b:0xd60f583d906af1f5!8m2!3d-6.9644058!4d106.8753675!16s%2Fg%2F11l2rjdtnf!19sChIJe7rKwB45aC4R9fFqkD1YD9Y?authuser=0&hl=id&rclk=1",
-        "total_reviews": 20
-    },
-    {
-        "name": "Ground 68 Coffe & Eatery",
-        "address": "Jl. Siliwangi No.68",
-        "rating": "4,5",
-        "latitude": -6.9186835,
-        "longitude": 106.9366596,
-        "link": "https://www.google.com/maps/place/Ground+68+Coffe+%26+Eatery/data=!4m7!3m6!1s0x2e6849d7140a60f3:0x725bc09be9e90739!8m2!3d-6.9186835!4d106.9366596!16s%2Fg%2F11h5vmwfzt!19sChIJ82AKFNdJaC4ROQfp6ZvAW3I?authuser=0&hl=id&rclk=1",
-        "total_reviews": 63
-    },
-    {
-        "name": "Cafe Nyoempoet",
-        "address": "Girang, Jl. Rambai-Cipanengah Jl. Lkr. Sel.",
-        "rating": "4,5",
-        "latitude": -6.9460941,
-        "longitude": 106.9133693,
-        "link": "https://www.google.com/maps/place/Cafe+Nyoempoet/data=!4m7!3m6!1s0x2e6848028625a493:0xc70edb8899e1f35d!8m2!3d-6.9460941!4d106.9133693!16s%2Fg%2F11csqjczv1!19sChIJk6QlhgJIaC4RXfPhmYjbDsc?authuser=0&hl=id&rclk=1",
-        "total_reviews": 654
-    },
-    {
-        "name": "Vayou Coffee",
-        "address": "Alamat tidak ditemukan",
-        "rating": "N/A",
-        "latitude": -6.9184326,
-        "longitude": 106.9349433,
-        "link": "https://www.google.com/maps/place/Vayou+Coffee/data=!4m7!3m6!1s0x2e6849005262a2d9:0x408ca80f2cc393cf!8m2!3d-6.9184326!4d106.9349433!16s%2Fg%2F11w_f3vvfy!19sChIJ2aJiUgBJaC4Rz5PDLA-ojEA?authuser=0&hl=id&rclk=1",
-        "total_reviews": 0
-    },
-    {
-        "name": "Carlo's Coffee",
-        "address": "3WVQ+FWW, Jl. Mayor Mahmud",
-        "rating": "5,0",
-        "latitude": -6.906266,
-        "longitude": 106.9398437,
-        "link": "https://www.google.com/maps/place/Carlo%27s+Coffee/data=!4m7!3m6!1s0x2e68497435532111:0x32fda076c12cb073!8m2!3d-6.906266!4d106.9398437!16s%2Fg%2F11v6glsmf6!19sChIJESFTNXRJaC4Rc7AswXag_TI?authuser=0&hl=id&rclk=1",
-        "total_reviews": 6
-    },
-    {
-        "name": "Kopi lain hati",
-        "address": "Alamat tidak ditemukan",
-        "rating": "4,6",
-        "latitude": -6.9216625,
-        "longitude": 106.9233676,
-        "link": "https://www.google.com/maps/place/Kopi+lain+hati/data=!4m7!3m6!1s0x2e6849df805b17df:0x2b679555893f1d05!8m2!3d-6.9216625!4d106.9233676!16s%2Fg%2F11j3s9mb6f!19sChIJ3xdbgN9JaC4RBR0_iVWVZys?authuser=0&hl=id&rclk=1",
-        "total_reviews": 7
-    },
-    {
-        "name": "Janji Jiwa & Jiwa Toast RE Martadinata 369",
-        "address": "Jl. R. E. Martadinata No.48",
-        "rating": "5,0",
-        "latitude": -6.9206459,
-        "longitude": 106.9325941,
-        "link": "https://www.google.com/maps/place/Janji+Jiwa+%26+Jiwa+Toast+RE+Martadinata+369/data=!4m7!3m6!1s0x2e684900414a32f9:0x929923892020f919!8m2!3d-6.9206459!4d106.9325941!16s%2Fg%2F11vm490l5x!19sChIJ-TJKQQBJaC4RGfkgIIkjmZI?authuser=0&hl=id&rclk=1",
-        "total_reviews": 4
-    },
-    {
-        "name": "Crowded coffee",
-        "address": "Jl. Sudirman",
-        "rating": "4,9",
-        "latitude": -6.920393,
-        "longitude": 106.9211332,
-        "link": "https://www.google.com/maps/place/Crowded+coffee/data=!4m7!3m6!1s0x2e68498bdf143bb5:0x219ec8f9653394df!8m2!3d-6.920393!4d106.9211332!16s%2Fg%2F11jv73nl3c!19sChIJtTsU34tJaC4R35QzZfnIniE?authuser=0&hl=id&rclk=1",
-        "total_reviews": 15
-    },
-    {
-        "name": "MARA cafe",
-        "address": "Jl. Siliwangi No.75",
-        "rating": "4,2",
-        "latitude": -6.916477,
-        "longitude": 106.93573,
-        "link": "https://www.google.com/maps/place/MARA+cafe/data=!4m7!3m6!1s0x2e68490074f8ec5f:0xe717175bc25d3cb9!8m2!3d-6.916477!4d106.93573!16s%2Fg%2F11vwhnq_q9!19sChIJX-z4dABJaC4RuTxdwlsXF-c?authuser=0&hl=id&rclk=1",
-        "total_reviews": 22
-    },
-    {
-        "name": "Blok A Coffee",
-        "address": "Jl. Siliwangi No.48",
-        "rating": "5,0",
-        "latitude": -6.9202268,
-        "longitude": 106.9358747,
-        "link": "https://www.google.com/maps/place/Blok+A+Coffee/data=!4m7!3m6!1s0x2e684837d7dbeaed:0xba6171c215e0a16c!8m2!3d-6.9202268!4d106.9358747!16s%2Fg%2F11d_z7z2hn!19sChIJ7erb1zdIaC4RbKHgFcJxYbo?authuser=0&hl=id&rclk=1",
         "total_reviews": 1
     }
 ]

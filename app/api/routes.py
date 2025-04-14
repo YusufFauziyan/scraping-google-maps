@@ -1,7 +1,7 @@
 from flask import Blueprint, jsonify, request
 from core import get_mysql_connection, setup_and_insert_data
 from scraping import scrape_coffee_shops
-from scripts import prepare_dataset
+from scripts import prepare_dataset, get_top_rated_popular
 
 api = Blueprint("api", __name__)
 
@@ -55,5 +55,30 @@ def scrape():
 
 
         # return jsonify({"status": "success", "message": f"Success get data from {query.replace("+", " ")}"}), 200
+    except Exception as e:
+        return jsonify({"status": "error", "message": str(e)}), 500
+    
+# scrapping
+@api.route("/recomendation", methods=["GET"])
+def recomendations():
+
+    limit = request.args.get("limit")
+
+    if not limit:
+        limit = 5
+
+    # check if limit is not number
+    if not limit.isdigit():
+        return jsonify({"status": "error", "message": "Limit must be a number"}), 400
+
+    limit = int(limit)
+
+    try:
+        top_coffee = get_top_rated_popular(limit)
+
+        print(f"Get top coffee shop", top_coffee)
+
+        return jsonify({"items": top_coffee}), 200
+    
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)}), 500
